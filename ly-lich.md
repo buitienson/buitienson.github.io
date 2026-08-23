@@ -18,7 +18,7 @@ Nghiên cứu robot mềm — cấu trúc biến dạng chịu va chạm, cơ c�
 | công trình Q1 / A* / A | 4 |
 | sáng chế đã nộp | 7 |
 | bằng độc quyền đã cấp | 2 |
-| giải thưởng | 4 |
+| giải thưởng | 3 |
 | đề tài, dự án | 3 |
 | người học hướng dẫn | 9 |
 | năm giảng dạy | 16 |
@@ -126,8 +126,7 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 7. **Tay gắp mềm phỏng sinh học từ hoa hồng** — Nhật Bản · JPO · Đã nộp đơn  
    đơn 特願2023-016702
 
-## Giải thưởng (4)
-- **2026** — Best Paper Award, Hội thảo SETSM 2026
+## Giải thưởng (3)
 - **2024** — Winner — Open Category, Soft Robotics Research, Soft Robotics Toolkit Competition 2023
 - **2023** — Best System Paper Finalist, Robotics: Science and Systems (RSS 2023)
 - **2012** — Giải Nhất — Cuộc thi Sáng tạo Việt lần thứ 23, đề tài “Máy gieo hạt rạch hàng”, Cuộc thi Sáng tạo Việt

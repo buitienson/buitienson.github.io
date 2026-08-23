@@ -18,7 +18,7 @@ Research in soft robotics — collision-accommodating deformable structures, bio
 | Q1 / A* / A venues | 4 |
 | patent filings | 7 |
 | patents granted | 2 |
-| awards | 4 |
+| awards | 3 |
 | funded projects | 3 |
 | students supervised | 9 |
 | years of teaching | 16 |
@@ -126,8 +126,7 @@ Hanoi University of Science and Technology · Vietnam
 7. **Rose-inspired bio-mimetic soft gripper** — Japan · JPO · Application filed  
    app. 特願2023-016702
 
-## Awards (4)
-- **2026** — Best Paper Award, SETSM 2026 Conference
+## Awards (3)
 - **2024** — Winner — Open Category, Soft Robotics Research, Soft Robotics Toolkit Competition 2023
 - **2023** — Best System Paper Finalist, Robotics: Science and Systems (RSS 2023)
 - **2012** — 1st Prize — 23rd Vietnam Creativity Competition, “Line-seed-sowing machine”, Vietnam Creativity Competition
