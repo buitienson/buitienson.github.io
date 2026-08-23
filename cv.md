@@ -13,7 +13,7 @@ Research in soft robotics — collision-accommodating deformable structures, bio
 ## At a glance
 | | |
 |---|---:|
-| publications | 26 |
+| publications | 25 |
 | journal articles | 9 |
 | Q1 / A* / A venues | 4 |
 | patent filings | 7 |
@@ -56,11 +56,11 @@ Hanoi University of Science and Technology · Vietnam
 **2005–2009 — Engineer (BEng), Mechanical Engineering — Manufacturing Technology**  
 Hanoi University of Science and Technology · Vietnam  
 
-## Publications (26)
+## Publications (25)
 1. **Design and Inverse Kinematics of Continuum Robots** (2026).  
    *Journal of Science and Technology in Transportation (JSTT)* — NATIONAL · journal
 2. **Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0** (2025).  
-   *Proceedings in Technology Transfer, Springer (1st SETSM)* — INTL · chapter · first author
+   *Proceedings in Technology Transfer, Springer — 1st SETSM (Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing), 2024* — INTL · chapter · first author
 3. **Hand Gesture Recognition with YOLO** (2025).  
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — INTL · conference
 4. **Modular IoT System for Classroom Air Quality Monitoring** (2025).  
@@ -75,39 +75,37 @@ Hanoi University of Science and Technology · Vietnam
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
 9. **An Isolated Vietnamese Sign Language Recognition Method Using a Fusion of Heatmap and Depth Information Based on CNNs** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-10. **Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0** (2024).  
-   *Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2024)* — INTL · conference · first author
-11. **Developing Force Testing Equipment for Research** (2024).  
+10. **Developing Force Testing Equipment for Research** (2024).  
    *1st National Conference on Energy, Electronics and Automation (EEA 2024)* — DOMESTIC · conference
-12. **Development of Software and Control System for Industrial Robots Using Mitsubishi Q PLC** (2024).  
+11. **Development of Software and Control System for Industrial Robots Using Mitsubishi Q PLC** (2024).  
    *1st National Conference on Energy, Electronics and Automation (EEA 2024)* — DOMESTIC · conference
-13. **Towards Interworking of Matter and oneM2M: Design and Implementation of a Matter–oneM2M Interworking Proxy Entity** (2024).  
+12. **Towards Interworking of Matter and oneM2M: Design and Implementation of a Matter–oneM2M Interworking Proxy Entity** (2024).  
    *Internet of Things (Elsevier)* — Q1 · journal
-14. **Development of Monitoring and Control Software for AGV** (2024).  
+13. **Development of Monitoring and Control Software for AGV** (2024).  
    *HaUI Journal of Science and Technology 60(9), 134–140* — NATIONAL · journal
-15. **Development of a Gripper with Force Feedback Control for Robots** (2024).  
+14. **Development of a Gripper with Force Feedback Control for Robots** (2024).  
    *HaUI Journal of Science and Technology 60(9), 47–52* — NATIONAL · journal
-16. **ROSE: Rotation-based Squeezing Robotic Gripper toward Universal Handling of Objects** (2023).  
+15. **ROSE: Rotation-based Squeezing Robotic Gripper toward Universal Handling of Objects** (2023).  
    *Robotics: Science and Systems XIX (RSS 2023)* — ASTAR · conference · first author · A* venue · Best System Paper Finalist
-17. **An Agile Bicycle-like Robot for Complex Steel Structure Inspection** (2022).  
+16. **An Agile Bicycle-like Robot for Complex Steel Structure Inspection** (2022).  
    *IEEE Intl. Conference on Robotics and Automation (ICRA 2022)* — A · conference
-18. **Tombo Propeller: Bio-Inspired Deformable Structure toward Collision-Accommodated Control for Drones** (2022).  
+17. **Tombo Propeller: Bio-Inspired Deformable Structure toward Collision-Accommodated Control for Drones** (2022).  
    *IEEE Transactions on Robotics (T-RO)* — Q1 · journal · first author · Flagship robotics journal
-19. **Improvement of BaTa2O6 Thin Films for TFT Gate Insulator Applications** (2019).  
+18. **Improvement of BaTa2O6 Thin Films for TFT Gate Insulator Applications** (2019).  
    *66th JSAP Spring Meeting* — INTL · conference
-20. **Effects of Working Pressure on Structure and Composition of TiAlN Coating Fabricated by Co-sputtering Deposition** (2018).  
+19. **Effects of Working Pressure on Structure and Composition of TiAlN Coating Fabricated by Co-sputtering Deposition** (2018).  
    *National Conference on Mechanical Engineering (VCME 2018)* — DOMESTIC · conference
-21. **Study, Design and Manufacture of Laboratory Equipment to Determine Friction Coefficient and Wear Intensity** (2018).  
+20. **Study, Design and Manufacture of Laboratory Equipment to Determine Friction Coefficient and Wear Intensity** (2018).  
    *National Conference on Mechanical Engineering (VCME 2018)* — DOMESTIC · conference
-22. **Research on Creating Hard TiN Coating on Alloy Steel Substrate by DC-Magnetron Sputtering** (2015).  
+21. **Research on Creating Hard TiN Coating on Alloy Steel Substrate by DC-Magnetron Sputtering** (2015).  
    *Journal of Science and Technology* — NATIONAL · journal
-23. **Micro/Nano Hierarchical Structure for Enhancing Hydrophobicity of Polymeric Surfaces** (2014).  
+22. **Micro/Nano Hierarchical Structure for Enhancing Hydrophobicity of Polymeric Surfaces** (2014).  
    *ISEPS 2014* — INTL · conference
-24. **Machine Tools Intelligently Adapting to Changes in the Production Environment** (2013).  
+23. **Machine Tools Intelligently Adapting to Changes in the Production Environment** (2013).  
    *3rd National Conference on Science and Technology in Mechanical Engineering* — DOMESTIC · conference
-25. **Investigation into Water-repellent and Tribological Properties of Lotus and Colocasia Esculenta Leaves** (2013).  
+24. **Investigation into Water-repellent and Tribological Properties of Lotus and Colocasia Esculenta Leaves** (2013).  
    *Journal of Science and Technology* — NATIONAL · journal
-26. **Research on Abrasive Waterjet Technology** (2012).  
+25. **Research on Abrasive Waterjet Technology** (2012).  
    *Vietnam Journal of Mechanical Engineering* — NATIONAL · journal
 
 ## Patents (7)

@@ -13,7 +13,7 @@ Nghiên cứu robot mềm — cấu trúc biến dạng chịu va chạm, cơ c�
 ## Số liệu tổng quan
 | | |
 |---|---:|
-| công trình công bố | 26 |
+| công trình công bố | 25 |
 | bài tạp chí | 9 |
 | công trình Q1 / A* / A | 4 |
 | sáng chế đã nộp | 7 |
@@ -56,11 +56,11 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 **2005–2009 — Kỹ sư, Cơ khí — Chế tạo máy**  
 Trường Đại học Bách khoa Hà Nội · Việt Nam  
 
-## Công bố khoa học (26)
+## Công bố khoa học (25)
 1. **Thiết kế và động học ngược của robot liên tục** (2026).  
    *Journal of Science and Technology in Transportation (JSTT)* — NATIONAL · journal
 2. **Hướng tới hệ điều khiển vạn năng mã nguồn mở cho robot công nghiệp trong Công nghiệp 4.0** (2025).  
-   *Proceedings in Technology Transfer, Springer (SETSM lần thứ nhất)* — INTL · chapter · tác giả chính
+   *Proceedings in Technology Transfer, Springer — kỷ yếu SETSM lần thứ nhất (Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh), 2024* — INTL · chapter · tác giả chính
 3. **Nhận dạng cử chỉ tay dùng YOLO** (2025).  
    *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — INTL · conference
 4. **Hệ thống IoT mô-đun giám sát chất lượng không khí lớp học** (2025).  
@@ -75,39 +75,37 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
 9. **Nhận dạng ngôn ngữ ký hiệu tiếng Việt đơn lẻ bằng kết hợp heatmap và thông tin độ sâu dựa trên CNN** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-10. **Hướng tới hệ điều khiển vạn năng mã nguồn mở cho robot công nghiệp trong Công nghiệp 4.0** (2024).  
-   *Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh (SETSM 2024)* — INTL · conference · tác giả chính
-11. **Phát triển tay kẹp phản hồi lực cho robot** (2024).  
+10. **Phát triển tay kẹp phản hồi lực cho robot** (2024).  
    *Hội nghị quốc gia lần thứ nhất về Năng lượng, Điện tử và Tự động hóa (EEA 2024)* — DOMESTIC · conference
-12. **Phát triển phần mềm và hệ điều khiển cho robot công nghiệp dùng PLC Mitsubishi Q** (2024).  
+11. **Phát triển phần mềm và hệ điều khiển cho robot công nghiệp dùng PLC Mitsubishi Q** (2024).  
    *Hội nghị quốc gia lần thứ nhất về Năng lượng, Điện tử và Tự động hóa (EEA 2024)* — DOMESTIC · conference
-13. **Hướng tới liên thông Matter và oneM2M: thiết kế và triển khai thực thể proxy liên thông Matter–oneM2M** (2024).  
+12. **Hướng tới liên thông Matter và oneM2M: thiết kế và triển khai thực thể proxy liên thông Matter–oneM2M** (2024).  
    *Internet of Things (Elsevier)* — Q1 · journal
-14. **Phát triển phần mềm giám sát và điều khiển cho AGV** (2024).  
+13. **Phát triển phần mềm giám sát và điều khiển cho AGV** (2024).  
    *Tạp chí Khoa học và Công nghệ ĐHCN Hà Nội 60(9), 134–140* — NATIONAL · journal
-15. **Phát triển tay kẹp có phản hồi lực cho robot** (2024).  
+14. **Phát triển tay kẹp có phản hồi lực cho robot** (2024).  
    *Tạp chí Khoa học và Công nghệ ĐHCN Hà Nội 60(9), 47–52* — NATIONAL · journal
-16. **ROSE: Tay gắp robot siết bằng chuyển động xoay hướng tới gắp vật thể vạn năng** (2023).  
+15. **ROSE: Tay gắp robot siết bằng chuyển động xoay hướng tới gắp vật thể vạn năng** (2023).  
    *Robotics: Science and Systems XIX (RSS 2023)* — ASTAR · conference · tác giả chính · Hội nghị hạng A* · Best System Paper Finalist
-17. **Robot dạng xe đạp linh hoạt để kiểm tra kết cấu thép phức tạp** (2022).  
+16. **Robot dạng xe đạp linh hoạt để kiểm tra kết cấu thép phức tạp** (2022).  
    *Hội nghị quốc tế IEEE về Robot và Tự động hóa (ICRA 2022)* — A · conference
-18. **Tombo Propeller: Cấu trúc biến dạng phỏng sinh học hướng tới điều khiển chịu va chạm cho drone** (2022).  
+17. **Tombo Propeller: Cấu trúc biến dạng phỏng sinh học hướng tới điều khiển chịu va chạm cho drone** (2022).  
    *IEEE Transactions on Robotics (T-RO)* — Q1 · journal · tác giả chính · Tạp chí đầu ngành robot học
-19. **Cải thiện màng mỏng BaTa2O6 cho ứng dụng lớp cách điện cổng TFT** (2019).  
+18. **Cải thiện màng mỏng BaTa2O6 cho ứng dụng lớp cách điện cổng TFT** (2019).  
    *Hội nghị mùa xuân JSAP lần thứ 66* — INTL · conference
-20. **Ảnh hưởng của áp suất làm việc đến cấu trúc và thành phần màng TiAlN chế tạo bằng đồng phún xạ** (2018).  
+19. **Ảnh hưởng của áp suất làm việc đến cấu trúc và thành phần màng TiAlN chế tạo bằng đồng phún xạ** (2018).  
    *Hội nghị Cơ khí toàn quốc (VCME 2018)* — DOMESTIC · conference
-21. **Nghiên cứu, thiết kế và chế tạo thiết bị phòng thí nghiệm xác định hệ số ma sát và cường độ mòn** (2018).  
+20. **Nghiên cứu, thiết kế và chế tạo thiết bị phòng thí nghiệm xác định hệ số ma sát và cường độ mòn** (2018).  
    *Hội nghị Cơ khí toàn quốc (VCME 2018)* — DOMESTIC · conference
-22. **Nghiên cứu tạo màng cứng TiN trên nền thép hợp kim bằng phún xạ DC-magnetron** (2015).  
+21. **Nghiên cứu tạo màng cứng TiN trên nền thép hợp kim bằng phún xạ DC-magnetron** (2015).  
    *Tạp chí Khoa học và Công nghệ* — NATIONAL · journal
-23. **Cấu trúc phân cấp micro/nano tăng tính kỵ nước cho bề mặt polymer** (2014).  
+22. **Cấu trúc phân cấp micro/nano tăng tính kỵ nước cho bề mặt polymer** (2014).  
    *ISEPS 2014* — INTL · conference
-24. **Máy công cụ thích ứng thông minh với thay đổi của môi trường sản xuất** (2013).  
+23. **Máy công cụ thích ứng thông minh với thay đổi của môi trường sản xuất** (2013).  
    *Hội nghị KHCN toàn quốc về Cơ khí lần thứ 3* — DOMESTIC · conference
-25. **Nghiên cứu tính kỵ nước và ma sát của lá sen và lá khoai môn** (2013).  
+24. **Nghiên cứu tính kỵ nước và ma sát của lá sen và lá khoai môn** (2013).  
    *Tạp chí Khoa học và Công nghệ* — NATIONAL · journal
-26. **Nghiên cứu công nghệ cắt bằng tia nước có hạt mài** (2012).  
+25. **Nghiên cứu công nghệ cắt bằng tia nước có hạt mài** (2012).  
    *Tạp chí Cơ khí Việt Nam* — NATIONAL · journal
 
 ## Sáng chế và giải pháp hữu ích (7)
