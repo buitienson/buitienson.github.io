@@ -50,6 +50,30 @@ body {
 .tierbar button:hover { border-color:var(--accent); color:var(--accent); }
 .tierbar button b { color:var(--ink); }
 
+/* --- thanh tab lọc theo mức riêng tư --- */
+.viewbar {
+  max-width:var(--measure); margin:1.2rem auto 0; padding:.55rem 0;
+  display:flex; flex-wrap:wrap; align-items:center; gap:.4rem;
+  border-bottom:1px solid var(--rule);
+}
+.viewbar .vb-label {
+  font:600 11px/1 var(--sans); letter-spacing:.08em; text-transform:uppercase;
+  color:var(--ink-3); margin-right:.3rem;
+}
+.viewbar button {
+  font:500 12px/1 var(--sans); letter-spacing:.02em; cursor:pointer;
+  background:none; border:1px solid var(--rule-2); color:var(--ink-2);
+  padding:.42rem .7rem; border-radius:3px;
+}
+.viewbar button:hover { border-color:var(--accent); color:var(--accent); }
+.viewbar button.on { background:var(--accent-soft); border-color:var(--accent); color:var(--accent); }
+.viewbar .vb-note {
+  font:400 11px/1.4 var(--sans); color:var(--ink-3); margin-left:auto;
+}
+body[data-show="public"]  [data-vis]:not([data-vis="public"]),
+body[data-show="shared"]  [data-vis]:not([data-vis="shared"]),
+body[data-show="private"] [data-vis]:not([data-vis="private"]) { display:none; }
+
 /* --- hero --- */
 .hero { max-width:var(--measure); margin:0 auto 2.5rem; }
 .eyebrow {
@@ -206,7 +230,7 @@ footer code { font:400 .8rem var(--mono); }
   table { display:block; overflow-x:auto; }
 }
 @media print {
-  .tierbar, .toc, .more-btn { display:none; }
+  .tierbar, .toc, .more-btn, .viewbar { display:none; }
   .is-collapsed > .extra { display:revert; }
   body { padding:0; font-size:11pt; }
   [data-lang="vi"] .l[lang="en"] { display:none; }
