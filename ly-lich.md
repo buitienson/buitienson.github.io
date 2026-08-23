@@ -18,7 +18,7 @@ Nghiên cứu robot mềm — cấu trúc biến dạng chịu va chạm, cơ c�
 | công trình Q1 / A* / A | 4 |
 | sáng chế đã nộp | 7 |
 | bằng độc quyền đã cấp | 2 |
-| giải thưởng | 5 |
+| giải thưởng | 4 |
 | đề tài, dự án | 3 |
 | người học hướng dẫn | 9 |
 | năm giảng dạy | 16 |
@@ -126,15 +126,14 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 7. **Tay gắp mềm phỏng sinh học từ hoa hồng** — Nhật Bản · JPO · Đã nộp đơn  
    đơn 特願2023-016702
 
-## Giải thưởng (5)
+## Giải thưởng (4)
+- **2026** — Best Paper Award, Hội thảo SETSM 2026
 - **2024** — Winner — Open Category, Soft Robotics Research, Soft Robotics Toolkit Competition 2023
 - **2023** — Best System Paper Finalist, Robotics: Science and Systems (RSS 2023)
-- **2023** — Soft Robotics Design Competition, Soft Robotics Design Competition 2023
-- **2018** — Pearson Education Innovation Award Vietnam, Pearson
 - **2012** — Giải Nhất — Cuộc thi Sáng tạo Việt lần thứ 23, đề tài “Máy gieo hạt rạch hàng”, Cuộc thi Sáng tạo Việt
 
 ## Đề tài và dự án (3)
-- **2024** — Thiết kế và chế tạo cơ cấu xúc giác mềm tích hợp mô hình thị giác có hỗ trợ chống nhiễu ánh sáng cực đoan và lẫn màu sắc (Đề tài cấp Trường · Chưa nghiệm thu · Chủ trì)
+- **2024** — Thiết kế và chế tạo cơ cấu xúc giác mềm tích hợp mô hình thị giác có hỗ trợ chống nhiễu ánh sáng cực đoan và lẫn màu sắc (Đề tài cấp Trường · Đã nghiệm thu · Chủ trì)
 - **2020–2023** — Nghiên cứu thiết kế, chế tạo cánh tay robot ứng dụng thực tại ảo phục hồi chức năng vận động chi trên cho bệnh nhân sau đột quỵ não (Chương trình Công nghệ cao · Chưa nghiệm thu · Tham gia)
 - **2020–2022** — JST SCORE — Dự án STSC200006 (Bộ Giáo dục, Văn hóa, Thể thao, Khoa học và Công nghệ Nhật Bản (MEXT) · Đã nghiệm thu · Tham gia)
 
