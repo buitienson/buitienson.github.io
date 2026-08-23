@@ -1,0 +1,189 @@
+/* Trang cá nhân — phong cách nhà khoa học. Song ngữ, sáng/tối theo hệ thống. */
+
+:root {
+  --bg:#fbfaf8; --panel:#fff; --ink:#1b1a18; --ink-2:#55524d; --ink-3:#8a857d;
+  --rule:#e2ded6; --rule-2:#cfc9be; --accent:#7a4a1e; --accent-soft:#f0e6da;
+  --bar:#8a5a2b; --warn-bg:#fdf3e3; --warn-ink:#7a4a1e;
+  --serif: "Iowan Old Style","Source Serif 4",Charter,Georgia,"Times New Roman",serif;
+  --sans: -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;
+  --mono: ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  --measure: 40rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:#14140f; --panel:#1c1c17; --ink:#eceae4; --ink-2:#b3aea4; --ink-3:#7d7871;
+    --rule:#2e2d26; --rule-2:#403e35; --accent:#d8a56b; --accent-soft:#2a2119;
+    --bar:#c08d55; --warn-bg:#2a2015; --warn-ink:#e0b075;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin:0; background:var(--bg); color:var(--ink);
+  font:400 17px/1.65 var(--serif); font-feature-settings:"onum" 1,"kern" 1;
+  padding: 0 1.5rem 5rem;
+}
+
+/* --- ẩn/hiện ngôn ngữ --- */
+[data-lang="vi"] .l[lang="en"], [data-lang="en"] .l[lang="vi"] { display:none; }
+
+/* --- thanh báo tier --- */
+.tierbar {
+  position:sticky; top:0; z-index:20; margin:0 -1.5rem 2.5rem; padding:.55rem 1.5rem;
+  display:flex; align-items:center; gap:.6rem;
+  font:600 12px/1 var(--sans); letter-spacing:.06em; text-transform:uppercase;
+  background:var(--panel); border-bottom:1px solid var(--rule); color:var(--ink-2);
+}
+.tierbar .dot { width:8px; height:8px; border-radius:50%; background:#3f9e5a; flex:none; }
+.t-shared .dot { background:#c9922e; }
+.t-full   .dot { background:#c0453a; }
+.tierbar button {
+  margin-left:auto; font:600 12px/1 var(--sans); letter-spacing:.06em;
+  background:none; border:1px solid var(--rule-2); color:var(--ink-2);
+  padding:.4rem .7rem; border-radius:4px; cursor:pointer;
+}
+.tierbar button:hover { border-color:var(--accent); color:var(--accent); }
+.tierbar button b { color:var(--ink); }
+
+/* --- hero --- */
+.hero { max-width:var(--measure); margin:0 auto 2.5rem; }
+.eyebrow {
+  font:600 12px/1.4 var(--sans); letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-3); margin:0 0 .8rem;
+}
+h1 { font:400 clamp(2rem,5.5vw,2.9rem)/1.15 var(--serif); margin:0 0 .5rem; letter-spacing:-.015em; }
+.headline { margin:0 0 .3rem; color:var(--ink-2); font-size:1.05rem; }
+.lab { margin:0 0 1.4rem; color:var(--ink-3); font-size:.95rem; }
+
+.contacts { list-style:none; margin:0; padding:1rem 0 0; border-top:1px solid var(--rule); }
+.contacts li { display:flex; gap:.9rem; padding:.28rem 0; font-size:.93rem; }
+.contacts .ck {
+  flex:none; width:9.5rem; color:var(--ink-3);
+  font:500 12px/1.7 var(--sans); letter-spacing:.03em;
+}
+a { color:var(--accent); text-decoration-thickness:1px; text-underline-offset:2px; }
+
+/* --- mục lục --- */
+.toc {
+  max-width:var(--measure); margin:0 auto 3.5rem; padding:.9rem 0;
+  border-top:1px solid var(--rule); border-bottom:1px solid var(--rule);
+  display:flex; flex-wrap:wrap; gap:.4rem 1.3rem;
+}
+.toc a { font:500 12.5px/1 var(--sans); letter-spacing:.04em; text-transform:uppercase;
+  color:var(--ink-2); text-decoration:none; }
+.toc a:hover { color:var(--accent); }
+.toc a.priv { color:#c0453a; }
+
+main { max-width:var(--measure); margin:0 auto; }
+section { margin:0 0 4rem; scroll-margin-top:4rem; }
+h2 {
+  font:400 1.35rem/1.3 var(--serif); margin:3rem 0 1.2rem;
+  padding-bottom:.45rem; border-bottom:1px solid var(--rule); letter-spacing:-.01em;
+}
+h2:first-child { margin-top:0; }
+h3 { font:600 1rem/1.3 var(--sans); margin:2.2rem 0 .9rem; color:var(--ink-2); }
+.count {
+  font:500 12px/1 var(--sans); color:var(--ink-3); vertical-align:.35em; margin-left:.3rem;
+}
+.bio { font-size:1.05rem; color:var(--ink-2); margin:0 0 2.2rem; }
+.note { font:400 .85rem/1.5 var(--sans); color:var(--ink-3); margin:.8rem 0 0; }
+
+/* --- ô thống kê --- */
+.stats {
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(8.5rem,1fr));
+  gap:1px; background:var(--rule); border:1px solid var(--rule); margin:0 0 1rem;
+}
+.stat { background:var(--panel); padding:1rem .9rem; }
+.stat b {
+  display:block; font:400 1.9rem/1 var(--serif); color:var(--accent);
+  font-feature-settings:"lnum" 1; margin-bottom:.3rem;
+}
+.stat .l { font:500 11.5px/1.35 var(--sans); letter-spacing:.03em; color:var(--ink-3); }
+
+/* --- biểu đồ --- */
+.chart { width:100%; height:auto; display:block; margin:.5rem 0 0; }
+.chart .bar { fill:var(--bar); }
+.chart .bar:hover { fill:var(--accent); }
+.chart .rule { stroke:var(--rule-2); stroke-width:1; }
+.chart .ax { fill:var(--ink-3); font:500 10px var(--sans); text-anchor:middle; }
+.chart .bn { fill:var(--ink-2); font:600 10px var(--sans); text-anchor:middle; }
+
+/* --- danh sách nhãn --- */
+.tags { list-style:none; margin:0; padding:0; display:flex; flex-wrap:wrap; gap:.45rem; }
+.tags li {
+  font:500 13px/1.4 var(--sans); padding:.34rem .7rem;
+  background:var(--panel); border:1px solid var(--rule); border-radius:3px; color:var(--ink-2);
+}
+.tags em { font-style:normal; color:var(--ink-3); font-size:11.5px; }
+
+/* --- dòng thời gian --- */
+.timeline { list-style:none; margin:0; padding:0; }
+.timeline li {
+  display:flex; gap:1.4rem; padding:.95rem 0; border-top:1px solid var(--rule);
+}
+.timeline li:first-child { border-top:none; padding-top:0; }
+.timeline .when {
+  flex:none; width:7rem; font:500 12.5px/1.75 var(--mono);
+  color:var(--ink-3); letter-spacing:-.02em;
+}
+.timeline b, .plain b, .pubs b { font-weight:600; font-size:1rem; line-height:1.4; }
+.where { margin:.2rem 0 0; color:var(--ink-2); font-size:.92rem; }
+.detail { margin:.35rem 0 0; color:var(--ink-3); font-size:.88rem; line-height:1.55; }
+
+.plain { list-style:none; margin:0; padding:0; counter-reset:p; }
+.plain li { padding:.8rem 0; border-top:1px solid var(--rule); }
+.plain li:first-child { border-top:none; padding-top:0; }
+
+/* --- công bố --- */
+.pubs { list-style:none; margin:0; padding:0; }
+.pubs li { display:flex; gap:1.4rem; padding:1.1rem 0; border-top:1px solid var(--rule); }
+.pubs li:first-child { border-top:none; padding-top:0; }
+.pubs .yr { flex:none; width:7rem; font:500 12.5px/1.75 var(--mono); color:var(--ink-3); }
+.venue { margin:.3rem 0 0; color:var(--ink-2); font-size:.9rem; font-style:italic; }
+.badges { margin:.55rem 0 0; display:flex; flex-wrap:wrap; gap:.35rem; }
+.b {
+  font:600 10.5px/1 var(--sans); letter-spacing:.05em; text-transform:uppercase;
+  padding:.32rem .5rem; border-radius:3px; border:1px solid var(--rule-2); color:var(--ink-3);
+}
+.b-q1, .b-astar, .b-a { background:var(--accent-soft); border-color:var(--accent); color:var(--accent); }
+.b-hl { background:var(--accent-soft); border-color:var(--accent); color:var(--accent); text-transform:none; letter-spacing:.02em; }
+.b-role { border-style:dashed; }
+
+/* --- bảng --- */
+table { width:100%; border-collapse:collapse; font-size:.92rem; margin:0 0 1rem; }
+th {
+  text-align:left; font:600 11.5px/1.4 var(--sans); letter-spacing:.05em; text-transform:uppercase;
+  color:var(--ink-3); padding:.5rem .6rem .5rem 0; border-bottom:1px solid var(--rule-2);
+}
+td { padding:.55rem .6rem .55rem 0; border-bottom:1px solid var(--rule); vertical-align:top; }
+td.mono { font:400 .85rem var(--mono); color:var(--ink-2); white-space:nowrap; }
+
+/* --- khối riêng tư --- */
+.private { border:1px solid #c0453a; border-radius:5px; padding:1.6rem 1.4rem; background:var(--panel); }
+.private h2 { color:#c0453a; border-color:#c0453a; margin-top:0; }
+.warn {
+  background:var(--warn-bg); color:var(--warn-ink); padding:.7rem .9rem;
+  border-radius:4px; font:500 .85rem/1.5 var(--sans); margin:0 0 1.6rem;
+}
+
+footer {
+  max-width:var(--measure); margin:4rem auto 0; padding-top:1.2rem;
+  border-top:1px solid var(--rule); font:400 .82rem/1.6 var(--sans); color:var(--ink-3);
+}
+footer p { margin:0 0 .2rem; }
+footer code { font:400 .8rem var(--mono); }
+
+@media (max-width:640px) {
+  body { font-size:16px; padding:0 1.1rem 4rem; }
+  .contacts li { flex-direction:column; gap:.1rem; }
+  .contacts .ck { width:auto; }
+  .timeline li, .pubs li { flex-direction:column; gap:.3rem; }
+  .timeline .when, .pubs .yr { width:auto; }
+  table { display:block; overflow-x:auto; }
+}
+@media print {
+  .tierbar, .toc { display:none; }
+  body { padding:0; font-size:11pt; }
+  [data-lang="vi"] .l[lang="en"] { display:none; }
+}
