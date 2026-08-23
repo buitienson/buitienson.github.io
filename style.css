@@ -7,7 +7,11 @@
   --serif: "Iowan Old Style","Source Serif 4",Charter,Georgia,"Times New Roman",serif;
   --sans: -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;
   --mono: ui-monospace,"SF Mono",Menlo,Consolas,monospace;
-  --measure: 40rem;
+  /* --measure: khung chung, đủ rộng để danh sách/bảng đỡ phải cuộn.
+     --prose: riêng cho văn xuôi — dòng dài quá 75 ký tự là mỏi mắt,
+     nới khung không có nghĩa là nới cả đoạn văn. */
+  --measure: 58rem;
+  --prose: 40rem;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -53,7 +57,7 @@ body {
   color:var(--ink-3); margin:0 0 .8rem;
 }
 h1 { font:400 clamp(2rem,5.5vw,2.9rem)/1.15 var(--serif); margin:0 0 .5rem; letter-spacing:-.015em; }
-.headline { margin:0 0 .3rem; color:var(--ink-2); font-size:1.05rem; }
+.headline { margin:0 0 .3rem; color:var(--ink-2); font-size:1.05rem; max-width:var(--prose); }
 .lab { margin:0 0 1.4rem; color:var(--ink-3); font-size:.95rem; }
 
 .contacts { list-style:none; margin:0; padding:1rem 0 0; border-top:1px solid var(--rule); }
@@ -78,7 +82,7 @@ a { color:var(--accent); text-decoration-thickness:1px; text-underline-offset:2p
 main { max-width:var(--measure); margin:0 auto; }
 section { margin:0 0 4rem; scroll-margin-top:4rem; }
 h2 {
-  font:400 1.35rem/1.3 var(--serif); margin:3rem 0 1.2rem;
+  font:400 1.35rem/1.3 var(--serif); margin:2.4rem 0 1rem;
   padding-bottom:.45rem; border-bottom:1px solid var(--rule); letter-spacing:-.01em;
 }
 h2:first-child { margin-top:0; }
@@ -86,7 +90,7 @@ h3 { font:600 1rem/1.3 var(--sans); margin:2.2rem 0 .9rem; color:var(--ink-2); }
 .count {
   font:500 12px/1 var(--sans); color:var(--ink-3); vertical-align:.35em; margin-left:.3rem;
 }
-.bio { font-size:1.05rem; color:var(--ink-2); margin:0 0 2.2rem; }
+.bio { font-size:1.05rem; color:var(--ink-2); margin:0 0 2.2rem; max-width:var(--prose); }
 .note { font:400 .85rem/1.5 var(--sans); color:var(--ink-3); margin:.8rem 0 0; }
 
 /* --- ô thống kê --- */
@@ -150,6 +154,23 @@ h3 { font:600 1rem/1.3 var(--sans); margin:2.2rem 0 .9rem; color:var(--ink-2); }
 .b-hl { background:var(--accent-soft); border-color:var(--accent); color:var(--accent); text-transform:none; letter-spacing:.02em; }
 .b-role { border-style:dashed; }
 
+/* --- gấp danh sách dài, sổ ra khi cần ---
+   Mục thứ 6 trở đi mang class .extra. Mặc định KHÔNG ẩn: chỉ khi JS chạy được
+   mới thêm .is-collapsed. Tắt JS thì thấy đủ, thà dài còn hơn mất nội dung. */
+.is-collapsed > .extra { display:none; }
+.more-btn {
+  display:inline-flex; align-items:center; gap:.4rem; margin:1.1rem 0 0;
+  font:500 12.5px/1 var(--sans); letter-spacing:.04em;
+  background:var(--panel); border:1px solid var(--rule-2); color:var(--ink-2);
+  padding:.6rem .95rem; border-radius:4px; cursor:pointer;
+}
+.more-btn:hover { border-color:var(--accent); color:var(--accent); }
+.more-btn::before { content:"▾"; font-size:11px; line-height:1; }
+.more-btn[aria-expanded="true"]::before { content:"▴"; }
+.more-btn .mc { display:none; }
+.more-btn[aria-expanded="true"] .mo { display:none; }
+.more-btn[aria-expanded="true"] .mc { display:inline; }
+
 /* --- bảng --- */
 table { width:100%; border-collapse:collapse; font-size:.92rem; margin:0 0 1rem; }
 th {
@@ -172,6 +193,8 @@ footer {
   border-top:1px solid var(--rule); font:400 .82rem/1.6 var(--sans); color:var(--ink-3);
 }
 footer p { margin:0 0 .2rem; }
+footer .dl { margin-top:.5rem; }
+footer .dl a { font-weight:500; }
 footer code { font:400 .8rem var(--mono); }
 
 @media (max-width:640px) {
@@ -183,7 +206,8 @@ footer code { font:400 .8rem var(--mono); }
   table { display:block; overflow-x:auto; }
 }
 @media print {
-  .tierbar, .toc { display:none; }
+  .tierbar, .toc, .more-btn { display:none; }
+  .is-collapsed > .extra { display:revert; }
   body { padding:0; font-size:11pt; }
   [data-lang="vi"] .l[lang="en"] { display:none; }
 }
