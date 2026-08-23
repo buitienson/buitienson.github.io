@@ -13,12 +13,12 @@ Research in soft robotics — collision-accommodating deformable structures, bio
 ## At a glance
 | | |
 |---|---:|
-| publications | 25 |
+| publications | 26 |
 | journal articles | 9 |
 | Q1 / A* / A venues | 4 |
 | patent filings | 7 |
 | patents granted | 2 |
-| awards | 3 |
+| awards | 4 |
 | funded projects | 3 |
 | students supervised | 9 |
 | years of teaching | 16 |
@@ -56,56 +56,58 @@ Hanoi University of Science and Technology · Vietnam
 **2005–2009 — Engineer (BEng), Mechanical Engineering — Manufacturing Technology**  
 Hanoi University of Science and Technology · Vietnam  
 
-## Publications (25)
-1. **Design and Inverse Kinematics of Continuum Robots** (2026).  
+## Publications (26)
+1. **Design and Experimental Validation of a Mobile Robot with Integrated Collision Avoidance and Synchronization Control for Blind Navigation Assistance** (2026).  
+   *Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2026)* — INTL · conference · Best Paper Award
+2. **Design and Inverse Kinematics of Continuum Robots** (2026).  
    *Journal of Science and Technology in Transportation (JSTT)* — NATIONAL · journal
-2. **Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0** (2025).  
+3. **Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0** (2025).  
    *Proceedings in Technology Transfer, Springer — 1st SETSM (Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing), 2024* — INTL · chapter · first author
-3. **Hand Gesture Recognition with YOLO** (2025).  
+4. **Hand Gesture Recognition with YOLO** (2025).  
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — INTL · conference
-4. **Modular IoT System for Classroom Air Quality Monitoring** (2025).  
+5. **Modular IoT System for Classroom Air Quality Monitoring** (2025).  
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — INTL · conference
-5. **Sliding Mode Control for a Quadrotor** (2025).  
+6. **Sliding Mode Control for a Quadrotor** (2025).  
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — INTL · conference
-6. **DigitEye: A Transparent Soft Tactile Sensor** (2025).  
+7. **DigitEye: A Transparent Soft Tactile Sensor** (2025).  
    *Journal of Mechanical Engineering (JME)* — NATIONAL · journal · first author
-7. **Collision Dynamics of Motorized Deformable Propellers for Drones** (2024).  
+8. **Collision Dynamics of Motorized Deformable Propellers for Drones** (2024).  
    *21st Intl. Conference on Ubiquitous Robots (UR 2024)* — INTL · conference
-8. **A Solution for Anomaly Detection of Red Beans in a Product Processing Line** (2024).  
+9. **A Solution for Anomaly Detection of Red Beans in a Product Processing Line** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-9. **An Isolated Vietnamese Sign Language Recognition Method Using a Fusion of Heatmap and Depth Information Based on CNNs** (2024).  
+10. **An Isolated Vietnamese Sign Language Recognition Method Using a Fusion of Heatmap and Depth Information Based on CNNs** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-10. **Developing Force Testing Equipment for Research** (2024).  
+11. **Developing Force Testing Equipment for Research** (2024).  
    *1st National Conference on Energy, Electronics and Automation (EEA 2024)* — DOMESTIC · conference
-11. **Development of Software and Control System for Industrial Robots Using Mitsubishi Q PLC** (2024).  
+12. **Development of Software and Control System for Industrial Robots Using Mitsubishi Q PLC** (2024).  
    *1st National Conference on Energy, Electronics and Automation (EEA 2024)* — DOMESTIC · conference
-12. **Towards Interworking of Matter and oneM2M: Design and Implementation of a Matter–oneM2M Interworking Proxy Entity** (2024).  
+13. **Towards Interworking of Matter and oneM2M: Design and Implementation of a Matter–oneM2M Interworking Proxy Entity** (2024).  
    *Internet of Things (Elsevier)* — Q1 · journal
-13. **Development of Monitoring and Control Software for AGV** (2024).  
+14. **Development of Monitoring and Control Software for AGV** (2024).  
    *HaUI Journal of Science and Technology 60(9), 134–140* — NATIONAL · journal
-14. **Development of a Gripper with Force Feedback Control for Robots** (2024).  
+15. **Development of a Gripper with Force Feedback Control for Robots** (2024).  
    *HaUI Journal of Science and Technology 60(9), 47–52* — NATIONAL · journal
-15. **ROSE: Rotation-based Squeezing Robotic Gripper toward Universal Handling of Objects** (2023).  
+16. **ROSE: Rotation-based Squeezing Robotic Gripper toward Universal Handling of Objects** (2023).  
    *Robotics: Science and Systems XIX (RSS 2023)* — ASTAR · conference · first author · A* venue · Best System Paper Finalist
-16. **An Agile Bicycle-like Robot for Complex Steel Structure Inspection** (2022).  
+17. **An Agile Bicycle-like Robot for Complex Steel Structure Inspection** (2022).  
    *IEEE Intl. Conference on Robotics and Automation (ICRA 2022)* — A · conference
-17. **Tombo Propeller: Bio-Inspired Deformable Structure toward Collision-Accommodated Control for Drones** (2022).  
+18. **Tombo Propeller: Bio-Inspired Deformable Structure toward Collision-Accommodated Control for Drones** (2022).  
    *IEEE Transactions on Robotics (T-RO)* — Q1 · journal · first author · Flagship robotics journal
-18. **Improvement of BaTa2O6 Thin Films for TFT Gate Insulator Applications** (2019).  
+19. **Improvement of BaTa2O6 Thin Films for TFT Gate Insulator Applications** (2019).  
    *66th JSAP Spring Meeting* — INTL · conference
-19. **Effects of Working Pressure on Structure and Composition of TiAlN Coating Fabricated by Co-sputtering Deposition** (2018).  
+20. **Effects of Working Pressure on Structure and Composition of TiAlN Coating Fabricated by Co-sputtering Deposition** (2018).  
    *National Conference on Mechanical Engineering (VCME 2018)* — DOMESTIC · conference
-20. **Study, Design and Manufacture of Laboratory Equipment to Determine Friction Coefficient and Wear Intensity** (2018).  
+21. **Study, Design and Manufacture of Laboratory Equipment to Determine Friction Coefficient and Wear Intensity** (2018).  
    *National Conference on Mechanical Engineering (VCME 2018)* — DOMESTIC · conference
-21. **Research on Creating Hard TiN Coating on Alloy Steel Substrate by DC-Magnetron Sputtering** (2015).  
+22. **Research on Creating Hard TiN Coating on Alloy Steel Substrate by DC-Magnetron Sputtering** (2015).  
    *Journal of Science and Technology* — NATIONAL · journal
-22. **Micro/Nano Hierarchical Structure for Enhancing Hydrophobicity of Polymeric Surfaces** (2014).  
+23. **Micro/Nano Hierarchical Structure for Enhancing Hydrophobicity of Polymeric Surfaces** (2014).  
    *ISEPS 2014* — INTL · conference
-23. **Machine Tools Intelligently Adapting to Changes in the Production Environment** (2013).  
+24. **Machine Tools Intelligently Adapting to Changes in the Production Environment** (2013).  
    *3rd National Conference on Science and Technology in Mechanical Engineering* — DOMESTIC · conference
-24. **Investigation into Water-repellent and Tribological Properties of Lotus and Colocasia Esculenta Leaves** (2013).  
+25. **Investigation into Water-repellent and Tribological Properties of Lotus and Colocasia Esculenta Leaves** (2013).  
    *Journal of Science and Technology* — NATIONAL · journal
-25. **Research on Abrasive Waterjet Technology** (2012).  
+26. **Research on Abrasive Waterjet Technology** (2012).  
    *Vietnam Journal of Mechanical Engineering* — NATIONAL · journal
 
 ## Patents (7)
@@ -124,7 +126,8 @@ Hanoi University of Science and Technology · Vietnam
 7. **Rose-inspired bio-mimetic soft gripper** — Japan · JPO · Application filed  
    app. 特願2023-016702
 
-## Awards (3)
+## Awards (4)
+- **2026** — Best Paper Award — “Mobile Robot for Blind Navigation Assistance”, Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2026)
 - **2024** — Winner — Open Category, Soft Robotics Research, Soft Robotics Toolkit Competition 2023
 - **2023** — Best System Paper Finalist, Robotics: Science and Systems (RSS 2023)
 - **2012** — 1st Prize — 23rd Vietnam Creativity Competition, “Line-seed-sowing machine”, Vietnam Creativity Competition

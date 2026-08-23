@@ -13,12 +13,12 @@ Nghiên cứu robot mềm — cấu trúc biến dạng chịu va chạm, cơ c�
 ## Số liệu tổng quan
 | | |
 |---|---:|
-| công trình công bố | 25 |
+| công trình công bố | 26 |
 | bài tạp chí | 9 |
 | công trình Q1 / A* / A | 4 |
 | sáng chế đã nộp | 7 |
 | bằng độc quyền đã cấp | 2 |
-| giải thưởng | 3 |
+| giải thưởng | 4 |
 | đề tài, dự án | 3 |
 | người học hướng dẫn | 9 |
 | năm giảng dạy | 16 |
@@ -56,56 +56,58 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 **2005–2009 — Kỹ sư, Cơ khí — Chế tạo máy**  
 Trường Đại học Bách khoa Hà Nội · Việt Nam  
 
-## Công bố khoa học (25)
-1. **Thiết kế và động học ngược của robot liên tục** (2026).  
+## Công bố khoa học (26)
+1. **Thiết kế và kiểm chứng thực nghiệm robot di động tích hợp tránh va chạm và điều khiển đồng bộ, hỗ trợ dẫn đường cho người khiếm thị** (2026).  
+   *Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh (SETSM 2026)* — INTL · conference · Best Paper Award
+2. **Thiết kế và động học ngược của robot liên tục** (2026).  
    *Journal of Science and Technology in Transportation (JSTT)* — NATIONAL · journal
-2. **Hướng tới hệ điều khiển vạn năng mã nguồn mở cho robot công nghiệp trong Công nghiệp 4.0** (2025).  
+3. **Hướng tới hệ điều khiển vạn năng mã nguồn mở cho robot công nghiệp trong Công nghiệp 4.0** (2025).  
    *Proceedings in Technology Transfer, Springer — kỷ yếu SETSM lần thứ nhất (Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh), 2024* — INTL · chapter · tác giả chính
-3. **Nhận dạng cử chỉ tay dùng YOLO** (2025).  
+4. **Nhận dạng cử chỉ tay dùng YOLO** (2025).  
    *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — INTL · conference
-4. **Hệ thống IoT mô-đun giám sát chất lượng không khí lớp học** (2025).  
+5. **Hệ thống IoT mô-đun giám sát chất lượng không khí lớp học** (2025).  
    *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — INTL · conference
-5. **Điều khiển trượt cho quadrotor** (2025).  
+6. **Điều khiển trượt cho quadrotor** (2025).  
    *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — INTL · conference
-6. **DigitEye: Cảm biến xúc giác mềm trong suốt** (2025).  
+7. **DigitEye: Cảm biến xúc giác mềm trong suốt** (2025).  
    *Journal of Mechanical Engineering (JME)* — NATIONAL · journal · tác giả chính
-7. **Động lực học va chạm của cánh quạt biến dạng có động cơ cho drone** (2024).  
+8. **Động lực học va chạm của cánh quạt biến dạng có động cơ cho drone** (2024).  
    *Hội nghị quốc tế lần thứ 21 về Ubiquitous Robots (UR 2024)* — INTL · conference
-8. **Giải pháp phát hiện bất thường của đậu đỏ trên dây chuyền chế biến** (2024).  
+9. **Giải pháp phát hiện bất thường của đậu đỏ trên dây chuyền chế biến** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-9. **Nhận dạng ngôn ngữ ký hiệu tiếng Việt đơn lẻ bằng kết hợp heatmap và thông tin độ sâu dựa trên CNN** (2024).  
+10. **Nhận dạng ngôn ngữ ký hiệu tiếng Việt đơn lẻ bằng kết hợp heatmap và thông tin độ sâu dựa trên CNN** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-10. **Phát triển tay kẹp phản hồi lực cho robot** (2024).  
+11. **Phát triển tay kẹp phản hồi lực cho robot** (2024).  
    *Hội nghị quốc gia lần thứ nhất về Năng lượng, Điện tử và Tự động hóa (EEA 2024)* — DOMESTIC · conference
-11. **Phát triển phần mềm và hệ điều khiển cho robot công nghiệp dùng PLC Mitsubishi Q** (2024).  
+12. **Phát triển phần mềm và hệ điều khiển cho robot công nghiệp dùng PLC Mitsubishi Q** (2024).  
    *Hội nghị quốc gia lần thứ nhất về Năng lượng, Điện tử và Tự động hóa (EEA 2024)* — DOMESTIC · conference
-12. **Hướng tới liên thông Matter và oneM2M: thiết kế và triển khai thực thể proxy liên thông Matter–oneM2M** (2024).  
+13. **Hướng tới liên thông Matter và oneM2M: thiết kế và triển khai thực thể proxy liên thông Matter–oneM2M** (2024).  
    *Internet of Things (Elsevier)* — Q1 · journal
-13. **Phát triển phần mềm giám sát và điều khiển cho AGV** (2024).  
+14. **Phát triển phần mềm giám sát và điều khiển cho AGV** (2024).  
    *Tạp chí Khoa học và Công nghệ ĐHCN Hà Nội 60(9), 134–140* — NATIONAL · journal
-14. **Phát triển tay kẹp có phản hồi lực cho robot** (2024).  
+15. **Phát triển tay kẹp có phản hồi lực cho robot** (2024).  
    *Tạp chí Khoa học và Công nghệ ĐHCN Hà Nội 60(9), 47–52* — NATIONAL · journal
-15. **ROSE: Tay gắp robot siết bằng chuyển động xoay hướng tới gắp vật thể vạn năng** (2023).  
+16. **ROSE: Tay gắp robot siết bằng chuyển động xoay hướng tới gắp vật thể vạn năng** (2023).  
    *Robotics: Science and Systems XIX (RSS 2023)* — ASTAR · conference · tác giả chính · Hội nghị hạng A* · Best System Paper Finalist
-16. **Robot dạng xe đạp linh hoạt để kiểm tra kết cấu thép phức tạp** (2022).  
+17. **Robot dạng xe đạp linh hoạt để kiểm tra kết cấu thép phức tạp** (2022).  
    *Hội nghị quốc tế IEEE về Robot và Tự động hóa (ICRA 2022)* — A · conference
-17. **Tombo Propeller: Cấu trúc biến dạng phỏng sinh học hướng tới điều khiển chịu va chạm cho drone** (2022).  
+18. **Tombo Propeller: Cấu trúc biến dạng phỏng sinh học hướng tới điều khiển chịu va chạm cho drone** (2022).  
    *IEEE Transactions on Robotics (T-RO)* — Q1 · journal · tác giả chính · Tạp chí đầu ngành robot học
-18. **Cải thiện màng mỏng BaTa2O6 cho ứng dụng lớp cách điện cổng TFT** (2019).  
+19. **Cải thiện màng mỏng BaTa2O6 cho ứng dụng lớp cách điện cổng TFT** (2019).  
    *Hội nghị mùa xuân JSAP lần thứ 66* — INTL · conference
-19. **Ảnh hưởng của áp suất làm việc đến cấu trúc và thành phần màng TiAlN chế tạo bằng đồng phún xạ** (2018).  
+20. **Ảnh hưởng của áp suất làm việc đến cấu trúc và thành phần màng TiAlN chế tạo bằng đồng phún xạ** (2018).  
    *Hội nghị Cơ khí toàn quốc (VCME 2018)* — DOMESTIC · conference
-20. **Nghiên cứu, thiết kế và chế tạo thiết bị phòng thí nghiệm xác định hệ số ma sát và cường độ mòn** (2018).  
+21. **Nghiên cứu, thiết kế và chế tạo thiết bị phòng thí nghiệm xác định hệ số ma sát và cường độ mòn** (2018).  
    *Hội nghị Cơ khí toàn quốc (VCME 2018)* — DOMESTIC · conference
-21. **Nghiên cứu tạo màng cứng TiN trên nền thép hợp kim bằng phún xạ DC-magnetron** (2015).  
+22. **Nghiên cứu tạo màng cứng TiN trên nền thép hợp kim bằng phún xạ DC-magnetron** (2015).  
    *Tạp chí Khoa học và Công nghệ* — NATIONAL · journal
-22. **Cấu trúc phân cấp micro/nano tăng tính kỵ nước cho bề mặt polymer** (2014).  
+23. **Cấu trúc phân cấp micro/nano tăng tính kỵ nước cho bề mặt polymer** (2014).  
    *ISEPS 2014* — INTL · conference
-23. **Máy công cụ thích ứng thông minh với thay đổi của môi trường sản xuất** (2013).  
+24. **Máy công cụ thích ứng thông minh với thay đổi của môi trường sản xuất** (2013).  
    *Hội nghị KHCN toàn quốc về Cơ khí lần thứ 3* — DOMESTIC · conference
-24. **Nghiên cứu tính kỵ nước và ma sát của lá sen và lá khoai môn** (2013).  
+25. **Nghiên cứu tính kỵ nước và ma sát của lá sen và lá khoai môn** (2013).  
    *Tạp chí Khoa học và Công nghệ* — NATIONAL · journal
-25. **Nghiên cứu công nghệ cắt bằng tia nước có hạt mài** (2012).  
+26. **Nghiên cứu công nghệ cắt bằng tia nước có hạt mài** (2012).  
    *Tạp chí Cơ khí Việt Nam* — NATIONAL · journal
 
 ## Sáng chế và giải pháp hữu ích (7)
@@ -124,7 +126,8 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 7. **Tay gắp mềm phỏng sinh học từ hoa hồng** — Nhật Bản · JPO · Đã nộp đơn  
    đơn 特願2023-016702
 
-## Giải thưởng (3)
+## Giải thưởng (4)
+- **2026** — Best Paper Award — bài “Robot di động hỗ trợ dẫn đường cho người khiếm thị”, Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh (SETSM 2026)
 - **2024** — Winner — Open Category, Soft Robotics Research, Soft Robotics Toolkit Competition 2023
 - **2023** — Best System Paper Finalist, Robotics: Science and Systems (RSS 2023)
 - **2012** — Giải Nhất — Cuộc thi Sáng tạo Việt lần thứ 23, đề tài “Máy gieo hạt rạch hàng”, Cuộc thi Sáng tạo Việt
