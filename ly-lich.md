@@ -130,8 +130,8 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 
 ## Giải thưởng (4)
 - **2026** — Best Paper Award — bài “Robot di động hỗ trợ dẫn đường cho người khiếm thị”, Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh (SETSM 2026)
-- **2024** — Winner — Open Category, Soft Robotics Research, Soft Robotics Toolkit Competition 2023
-- **2023** — Best System Paper Finalist, Robotics: Science and Systems (RSS 2023)
+- **2024** — [Winner — Open Category, Soft Robotics Research](https://softroboticstoolkit.com/competitions/2023), Soft Robotics Toolkit Competition 2023
+- **2023** — [Best System Paper Finalist](https://roboticsfoundation.org/awards/best-systems-paper-award/), Robotics: Science and Systems (RSS 2023)
 - **2012** — [Giải Nhất — Cuộc thi Sáng tạo Việt lần thứ 23, đề tài “Máy gieo hạt rạch hàng”](https://youtu.be/y1QemCX8K3Q), Cuộc thi Sáng tạo Việt
 
 ## Đề tài và dự án (3)
