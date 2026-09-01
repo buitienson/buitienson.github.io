@@ -139,6 +139,10 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 - **2020–2023** — Nghiên cứu thiết kế, chế tạo cánh tay robot ứng dụng thực tại ảo phục hồi chức năng vận động chi trên cho bệnh nhân sau đột quỵ não (Chương trình Công nghệ cao · Chưa nghiệm thu · Tham gia)
 - **2020–2022** — JST SCORE — Dự án STSC200006 (Bộ Giáo dục, Văn hóa, Thể thao, Khoa học và Công nghệ Nhật Bản (MEXT) · Đã nghiệm thu · Tham gia)
 
+## Hoạt động STEM và cộng đồng (1)
+- **2026** — [Touch to Robotics — sự kiện trải nghiệm STEM](https://buitienson.github.io/touch-to-robotics/) — VICEE — bảo trợ kỹ thuật: Soft Robotics Lab (Chủ trì)
+  60 học sinh cấp 1–2 tự tay khám phá 5 cơ cấu robot, chế tạo một sản phẩm của riêng mình rồi mang ra thi đấu ngay tại chỗ.
+
 ## Giảng dạy
 ### Học phần
 | Học phần | Mã | Bậc | Năm |

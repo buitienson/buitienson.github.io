@@ -139,6 +139,10 @@ Hanoi University of Science and Technology · Vietnam
 - **2020–2023** — Design and fabrication of a VR-assisted robotic arm for upper-limb motor rehabilitation of post-stroke patients (High-Technology Programme · Pending acceptance · Member)
 - **2020–2022** — JST SCORE — Project STSC200006 (Japan Ministry of Education, Culture, Sports, Science and Technology (MEXT) · Completed · Member)
 
+## STEM & community outreach (1)
+- **2026** — [Touch to Robotics — hands-on STEM experience event](https://buitienson.github.io/touch-to-robotics/) — VICEE — technical sponsorship by Soft Robotics Lab (Principal organiser)
+  60 primary/lower-secondary students explored 5 robotic mechanisms hands-on, built a piece of their own, and raced it on the spot.
+
 ## Teaching
 ### Courses
 | Course | Code | Level | Years |
