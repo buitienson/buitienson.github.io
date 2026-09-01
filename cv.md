@@ -60,19 +60,19 @@ Hanoi University of Science and Technology · Vietnam
 1. **Design and Experimental Validation of a Mobile Robot with Integrated Collision Avoidance and Synchronization Control for Blind Navigation Assistance** (2026).  
    *Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2026)* — INTL · conference · Best Paper Award
 2. **Design and Inverse Kinematics of Continuum Robots** (2026).  
-   *Journal of Science and Technology in Transportation (JSTT)* — NATIONAL · journal
+   *Journal of Science and Technology in Transportation (JSTT)* — Q3 · journal
 3. **AI-Driven Inverse Design of 3D-Printed Continuous Fiber Composites Using Multiscale Homogenization and Dual Neural Networks** (2026).  
    *The International Journal of Advanced Manufacturing Technology (IJAMT)* — Q1 · journal
 4. **Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0** (2025).  
    *Proceedings in Technology Transfer, Springer — 1st SETSM (Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing), 2024* — INTL · chapter · first author
 5. **Hand Gesture Recognition with YOLO** (2025).  
-   *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — INTL · conference
+   *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — Q4 · conference
 6. **Modular IoT System for Classroom Air Quality Monitoring** (2025).  
-   *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — INTL · conference
+   *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — Q4 · conference
 7. **Sliding Mode Control for a Quadrotor** (2025).  
-   *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — INTL · conference
+   *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — Q4 · conference
 8. **DigitEye: A Transparent Soft Tactile Sensor** (2025).  
-   *Journal of Mechanical Engineering (JME)* — NATIONAL · journal · first author
+   *Journal of Mechanical Engineering (JME)* — Q2 · journal · first author
 9. **Collision Dynamics of Motorized Deformable Propellers for Drones** (2024).  
    *21st Intl. Conference on Ubiquitous Robots (UR 2024)* — INTL · conference
 10. **A Solution for Anomaly Detection of Red Beans in a Product Processing Line** (2024).  

@@ -60,19 +60,19 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 1. **Thiết kế và kiểm chứng thực nghiệm robot di động tích hợp tránh va chạm và điều khiển đồng bộ, hỗ trợ dẫn đường cho người khiếm thị** (2026).  
    *Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh (SETSM 2026)* — INTL · conference · Best Paper Award
 2. **Thiết kế và động học ngược của robot liên tục** (2026).  
-   *Journal of Science and Technology in Transportation (JSTT)* — NATIONAL · journal
+   *Journal of Science and Technology in Transportation (JSTT)* — Q3 · journal
 3. **Thiết kế ngược có AI dẫn dắt cho composite sợi liên tục in 3D bằng đồng nhất hoá đa tỷ lệ và mạng nơ-ron kép** (2026).  
    *The International Journal of Advanced Manufacturing Technology (IJAMT)* — Q1 · journal
 4. **Hướng tới hệ điều khiển vạn năng mã nguồn mở cho robot công nghiệp trong Công nghiệp 4.0** (2025).  
    *Proceedings in Technology Transfer, Springer — kỷ yếu SETSM lần thứ nhất (Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh), 2024* — INTL · chapter · tác giả chính
 5. **Nhận dạng cử chỉ tay dùng YOLO** (2025).  
-   *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — INTL · conference
+   *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — Q4 · conference
 6. **Hệ thống IoT mô-đun giám sát chất lượng không khí lớp học** (2025).  
-   *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — INTL · conference
+   *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — Q4 · conference
 7. **Điều khiển trượt cho quadrotor** (2025).  
-   *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — INTL · conference
+   *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — Q4 · conference
 8. **DigitEye: Cảm biến xúc giác mềm trong suốt** (2025).  
-   *Journal of Mechanical Engineering (JME)* — NATIONAL · journal · tác giả chính
+   *Journal of Mechanical Engineering (JME)* — Q2 · journal · tác giả chính
 9. **Động lực học va chạm của cánh quạt biến dạng có động cơ cho drone** (2024).  
    *Hội nghị quốc tế lần thứ 21 về Ubiquitous Robots (UR 2024)* — INTL · conference
 10. **Giải pháp phát hiện bất thường của đậu đỏ trên dây chuyền chế biến** (2024).  
