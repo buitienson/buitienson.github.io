@@ -171,6 +171,8 @@ IEEE Transactions on Robotics (Q1), IEEE Robotics and Automation Letters (Q1), A
 ### Conference roles
 - **2023** — Keynote speaker, RICE 2023
 - **2024** — Keynote speaker, RICE 2024
+- **2025** — Keynote speaker, ICCIT 2025
+- **2026** — Keynote speaker, ICCIT 2026
 - **2024** — Chair, SETSM 2024
 - **2025** — Chair, SETSM 2025
 - **2024** — Session Chair, APSIPA ASC 2024
