@@ -59,47 +59,47 @@ Hanoi University of Science and Technology · Vietnam
 ## Publications (27)
 1. **Design and Experimental Validation of a Mobile Robot with Integrated Collision Avoidance and Synchronization Control for Blind Navigation Assistance** (2026).  
    *Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2026)* — INTL · conference · Best Paper Award
-2. **Design and Inverse Kinematics of Continuum Robots** (2026).  
+2. **[Design and Inverse Kinematics of Continuum Robots](https://doi.org/10.58845/jstt.utt.2026.en.6.1.101-111)** (2026).  
    *Journal of Science and Technology in Transportation (JSTT)* — Q3 · journal
 3. **[AI-Driven Inverse Design of 3D-Printed Continuous Fiber Composites Using Multiscale Homogenization and Dual Neural Networks](https://doi.org/10.1007/s00170-026-17787-2)** (2026).  
    *The International Journal of Advanced Manufacturing Technology (IJAMT)* — Q1 · journal
-4. **Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0** (2025).  
+4. **[Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0](https://doi.org/10.1007/978-981-97-7083-0_62)** (2025).  
    *Proceedings in Technology Transfer, Springer — 1st SETSM (Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing), 2024* — INTL · chapter · first author
-5. **Hand Gesture Recognition with YOLO** (2025).  
+5. **[Hand Gesture Recognition with YOLO](https://doi.org/10.1007/978-981-95-1746-6_22)** (2025).  
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — Q4 · conference
-6. **Modular IoT System for Classroom Air Quality Monitoring** (2025).  
+6. **[Modular IoT System for Classroom Air Quality Monitoring](https://doi.org/10.1007/978-981-95-1746-6_82)** (2025).  
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — Q4 · conference
-7. **Sliding Mode Control for a Quadrotor** (2025).  
+7. **[Sliding Mode Control for a Quadrotor](https://doi.org/10.1007/978-981-95-1746-6_33)** (2025).  
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — Q4 · conference
-8. **DigitEye: A Transparent Soft Tactile Sensor** (2025).  
+8. **[DigitEye: A Transparent Soft Tactile Sensor](https://doi.org/10.36897/jme/213851)** (2025).  
    *Journal of Mechanical Engineering (JME)* — Q2 · journal · first author
-9. **Collision Dynamics of Motorized Deformable Propellers for Drones** (2024).  
+9. **[Collision Dynamics of Motorized Deformable Propellers for Drones](https://doi.org/10.1109/UR61395.2024.10597535)** (2024).  
    *21st Intl. Conference on Ubiquitous Robots (UR 2024)* — INTL · conference
-10. **A Solution for Anomaly Detection of Red Beans in a Product Processing Line** (2024).  
+10. **[A Solution for Anomaly Detection of Red Beans in a Product Processing Line](https://doi.org/10.1109/APSIPAASC63619.2025.10849036)** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-11. **An Isolated Vietnamese Sign Language Recognition Method Using a Fusion of Heatmap and Depth Information Based on CNNs** (2024).  
+11. **[An Isolated Vietnamese Sign Language Recognition Method Using a Fusion of Heatmap and Depth Information Based on CNNs](https://doi.org/10.1109/APSIPAASC63619.2025.10848961)** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
 12. **Developing Force Testing Equipment for Research** (2024).  
    *1st National Conference on Energy, Electronics and Automation (EEA 2024)* — DOMESTIC · conference
 13. **Development of Software and Control System for Industrial Robots Using Mitsubishi Q PLC** (2024).  
    *1st National Conference on Energy, Electronics and Automation (EEA 2024)* — DOMESTIC · conference
-14. **Towards Interworking of Matter and oneM2M: Design and Implementation of a Matter–oneM2M Interworking Proxy Entity** (2024).  
+14. **[Towards Interworking of Matter and oneM2M: Design and Implementation of a Matter–oneM2M Interworking Proxy Entity](https://doi.org/10.1016/j.iot.2024.101313)** (2024).  
    *Internet of Things (Elsevier)* — Q1 · journal
-15. **Development of Monitoring and Control Software for AGV** (2024).  
+15. **[Development of Monitoring and Control Software for AGV](http://doi.org/10.57001/huih5804.2024.306)** (2024).  
    *HaUI Journal of Science and Technology 60(9), 134–140* — NATIONAL · journal
-16. **Development of a Gripper with Force Feedback Control for Robots** (2024).  
+16. **[Development of a Gripper with Force Feedback Control for Robots](http://doi.org/10.57001/huih5804.2024.292)** (2024).  
    *HaUI Journal of Science and Technology 60(9), 47–52* — NATIONAL · journal
-17. **ROSE: Rotation-based Squeezing Robotic Gripper toward Universal Handling of Objects** (2023).  
+17. **[ROSE: Rotation-based Squeezing Robotic Gripper toward Universal Handling of Objects](https://doi.org/10.15607/RSS.2023.XIX.090)** (2023).  
    *Robotics: Science and Systems XIX (RSS 2023)* — ASTAR · conference · first author · A* venue · Best System Paper Finalist
-18. **An Agile Bicycle-like Robot for Complex Steel Structure Inspection** (2022).  
+18. **[An Agile Bicycle-like Robot for Complex Steel Structure Inspection](https://doi.org/10.1109/ICRA46639.2022.9812153)** (2022).  
    *IEEE Intl. Conference on Robotics and Automation (ICRA 2022)* — A · conference
-19. **Tombo Propeller: Bio-Inspired Deformable Structure toward Collision-Accommodated Control for Drones** (2022).  
+19. **[Tombo Propeller: Bio-Inspired Deformable Structure toward Collision-Accommodated Control for Drones](https://doi.org/10.1109/TRO.2022.3198494)** (2022).  
    *IEEE Transactions on Robotics (T-RO)* — Q1 · journal · first author · Flagship robotics journal
 20. **Improvement of BaTa2O6 Thin Films for TFT Gate Insulator Applications** (2019).  
    *66th JSAP Spring Meeting* — INTL · conference
-21. **Effects of Working Pressure on Structure and Composition of TiAlN Coating Fabricated by Co-sputtering Deposition** (2018).  
+21. **[Effects of Working Pressure on Structure and Composition of TiAlN Coating Fabricated by Co-sputtering Deposition](https://vjol.info.vn/dhcnhn/en/article/view/41351)** (2018).  
    *National Conference on Mechanical Engineering (VCME 2018)* — DOMESTIC · conference
-22. **Study, Design and Manufacture of Laboratory Equipment to Determine Friction Coefficient and Wear Intensity** (2018).  
+22. **[Study, Design and Manufacture of Laboratory Equipment to Determine Friction Coefficient and Wear Intensity](https://vjol.info.vn/dhcnhn/en/article/view/41513)** (2018).  
    *National Conference on Mechanical Engineering (VCME 2018)* — DOMESTIC · conference
 23. **Research on Creating Hard TiN Coating on Alloy Steel Substrate by DC-Magnetron Sputtering** (2015).  
    *Journal of Science and Technology* — NATIONAL · journal
