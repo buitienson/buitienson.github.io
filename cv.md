@@ -136,7 +136,7 @@ Hanoi University of Science and Technology · Vietnam
 
 ## Funded projects (3)
 - **2024** — Design and fabrication of a soft tactile mechanism with integrated vision model robust to extreme lighting and colour interference (University-level project · Completed and accepted · Principal investigator)
-- **2020–2023** — Design and fabrication of a VR-assisted robotic arm for upper-limb motor rehabilitation of post-stroke patients (High-Technology Programme · Pending acceptance · Member)
+- **2020–2023** — Design and fabrication of a VR-assisted robotic arm for upper-limb motor rehabilitation of post-stroke patients (Independent national-level project (ĐTĐL.CN-28/20) · Pending acceptance · Member)
 - **2020–2022** — JST SCORE — Project STSC200006 (Japan Ministry of Education, Culture, Sports, Science and Technology (MEXT) · Completed · Member)
 
 ## STEM & community outreach (1)
