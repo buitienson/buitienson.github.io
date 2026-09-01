@@ -60,7 +60,7 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 1. **Thiết kế và kiểm chứng thực nghiệm robot di động tích hợp tránh va chạm và điều khiển đồng bộ, hỗ trợ dẫn đường cho người khiếm thị** (2026).  
    *Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh (SETSM 2026)* — INTL · conference · Best Paper Award
 2. **[Thiết kế và động học ngược của robot liên tục](https://doi.org/10.58845/jstt.utt.2026.en.6.1.101-111)** (2026).  
-   *Journal of Science and Technology in Transportation (JSTT)* — Q3 · journal
+   *Journal of Science and Transport Technology (JSTT)* — Q3 · journal
 3. **[Thiết kế ngược có AI dẫn dắt cho composite sợi liên tục in 3D bằng đồng nhất hoá đa tỷ lệ và mạng nơ-ron kép](https://doi.org/10.1007/s00170-026-17787-2)** (2026).  
    *The International Journal of Advanced Manufacturing Technology (IJAMT)* — Q1 · journal
 4. **[Hướng tới hệ điều khiển vạn năng mã nguồn mở cho robot công nghiệp trong Công nghiệp 4.0](https://doi.org/10.1007/978-981-97-7083-0_62)** (2025).  
@@ -79,7 +79,7 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
 11. **[Nhận dạng ngôn ngữ ký hiệu tiếng Việt đơn lẻ bằng kết hợp heatmap và thông tin độ sâu dựa trên CNN](https://doi.org/10.1109/APSIPAASC63619.2025.10848961)** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-12. **Phát triển tay kẹp phản hồi lực cho robot** (2024).  
+12. **Phát triển tay kẹp có điều khiển phản hồi lực cho robot** (2024).  
    *Hội nghị quốc gia lần thứ nhất về Năng lượng, Điện tử và Tự động hóa (EEA 2024)* — DOMESTIC · conference
 13. **Phát triển phần mềm và hệ điều khiển cho robot công nghiệp dùng PLC Mitsubishi Q** (2024).  
    *Hội nghị quốc gia lần thứ nhất về Năng lượng, Điện tử và Tự động hóa (EEA 2024)* — DOMESTIC · conference
@@ -104,7 +104,7 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 23. **Nghiên cứu tạo màng cứng TiN trên nền thép hợp kim bằng phún xạ DC-magnetron** (2015).  
    *Tạp chí Khoa học và Công nghệ* — NATIONAL · journal
 24. **Cấu trúc phân cấp micro/nano tăng tính kỵ nước cho bề mặt polymer** (2014).  
-   *ISEPS 2014* — INTL · conference
+   *Hội nghị quốc tế lần thứ 15 về Xử lý và Thiết kế Vật liệu sinh thái (ISEPD 2014)* — INTL · conference
 25. **Máy công cụ thích ứng thông minh với thay đổi của môi trường sản xuất** (2013).  
    *Hội nghị KHCN toàn quốc về Cơ khí lần thứ 3* — DOMESTIC · conference
 26. **Nghiên cứu tính kỵ nước và ma sát của lá sen và lá khoai môn** (2013).  

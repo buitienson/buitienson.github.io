@@ -60,7 +60,7 @@ Hanoi University of Science and Technology · Vietnam
 1. **Design and Experimental Validation of a Mobile Robot with Integrated Collision Avoidance and Synchronization Control for Blind Navigation Assistance** (2026).  
    *Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2026)* — INTL · conference · Best Paper Award
 2. **[Design and Inverse Kinematics of Continuum Robots](https://doi.org/10.58845/jstt.utt.2026.en.6.1.101-111)** (2026).  
-   *Journal of Science and Technology in Transportation (JSTT)* — Q3 · journal
+   *Journal of Science and Transport Technology (JSTT)* — Q3 · journal
 3. **[AI-Driven Inverse Design of 3D-Printed Continuous Fiber Composites Using Multiscale Homogenization and Dual Neural Networks](https://doi.org/10.1007/s00170-026-17787-2)** (2026).  
    *The International Journal of Advanced Manufacturing Technology (IJAMT)* — Q1 · journal
 4. **[Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0](https://doi.org/10.1007/978-981-97-7083-0_62)** (2025).  
@@ -79,7 +79,7 @@ Hanoi University of Science and Technology · Vietnam
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
 11. **[An Isolated Vietnamese Sign Language Recognition Method Using a Fusion of Heatmap and Depth Information Based on CNNs](https://doi.org/10.1109/APSIPAASC63619.2025.10848961)** (2024).  
    *APSIPA Annual Summit and Conference 2024* — INTL · conference
-12. **Developing Force Testing Equipment for Research** (2024).  
+12. **Development of a Gripper with Force Feedback Control for Robots** (2024).  
    *1st National Conference on Energy, Electronics and Automation (EEA 2024)* — DOMESTIC · conference
 13. **Development of Software and Control System for Industrial Robots Using Mitsubishi Q PLC** (2024).  
    *1st National Conference on Energy, Electronics and Automation (EEA 2024)* — DOMESTIC · conference
@@ -104,7 +104,7 @@ Hanoi University of Science and Technology · Vietnam
 23. **Research on Creating Hard TiN Coating on Alloy Steel Substrate by DC-Magnetron Sputtering** (2015).  
    *Journal of Science and Technology* — NATIONAL · journal
 24. **Micro/Nano Hierarchical Structure for Enhancing Hydrophobicity of Polymeric Surfaces** (2014).  
-   *ISEPS 2014* — INTL · conference
+   *15th Intl. Symposium on Eco-Materials Processing and Design (ISEPD 2014)* — INTL · conference
 25. **Machine Tools Intelligently Adapting to Changes in the Production Environment** (2013).  
    *3rd National Conference on Science and Technology in Mechanical Engineering* — DOMESTIC · conference
 26. **Investigation into Water-repellent and Tribological Properties of Lotus and Colocasia Esculenta Leaves** (2013).  
