@@ -169,13 +169,13 @@ A “—” means the figure has not been extracted yet — not that it is zero.
 IEEE Transactions on Robotics (Q1), IEEE Robotics and Automation Letters (Q1), Advanced Robotics (Q1), Robotics: Science and Systems (A*), IEEE RoboSoft, IEEE/SICE SII
 
 ### Conference roles
-- **2023** — Keynote speaker, RICE 2023
-- **2024** — Keynote speaker, RICE 2024
-- **2025** — Keynote speaker, ICCIT 2025
 - **2026** — Keynote speaker, ICCIT 2026
-- **2024** — Chair, SETSM 2024
+- **2025** — Keynote speaker, ICCIT 2025
 - **2025** — Chair, SETSM 2025
+- **2024** — Keynote speaker, RICE 2024
+- **2024** — Chair, SETSM 2024
 - **2024** — Session Chair, APSIPA ASC 2024
+- **2023** — Keynote speaker, RICE 2023
 
 ### Consulting areas
 Soft robotics, Mechanical engineering technology, Manufacturing technology, Tactile sensing and perception, Environmental quality inspection robots
