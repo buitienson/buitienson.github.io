@@ -132,7 +132,7 @@ Hanoi University of Science and Technology · Vietnam
 - **2026** — Best Paper Award — “Mobile Robot for Blind Navigation Assistance”, Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2026)
 - **2024** — Winner — Open Category, Soft Robotics Research, Soft Robotics Toolkit Competition 2023
 - **2023** — Best System Paper Finalist, Robotics: Science and Systems (RSS 2023)
-- **2012** — 1st Prize — 23rd Vietnam Creativity Competition, “Line-seed-sowing machine”, Vietnam Creativity Competition
+- **2012** — [1st Prize — 23rd Vietnam Creativity Competition, “Line-seed-sowing machine”](https://youtu.be/y1QemCX8K3Q), Vietnam Creativity Competition
 
 ## Funded projects (3)
 - **2024** — Design and fabrication of a soft tactile mechanism with integrated vision model robust to extreme lighting and colour interference (University-level project · Completed and accepted · Principal investigator)
