@@ -61,7 +61,7 @@ Hanoi University of Science and Technology · Vietnam
    *Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2026)* — INTL · conference · Best Paper Award
 2. **Design and Inverse Kinematics of Continuum Robots** (2026).  
    *Journal of Science and Technology in Transportation (JSTT)* — Q3 · journal
-3. **AI-Driven Inverse Design of 3D-Printed Continuous Fiber Composites Using Multiscale Homogenization and Dual Neural Networks** (2026).  
+3. **[AI-Driven Inverse Design of 3D-Printed Continuous Fiber Composites Using Multiscale Homogenization and Dual Neural Networks](https://doi.org/10.1007/s00170-026-17787-2)** (2026).  
    *The International Journal of Advanced Manufacturing Technology (IJAMT)* — Q1 · journal
 4. **Towards an Open-Source Universal Controller System for Industrial Robots in Industry 4.0** (2025).  
    *Proceedings in Technology Transfer, Springer — 1st SETSM (Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing), 2024* — INTL · chapter · first author

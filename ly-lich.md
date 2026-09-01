@@ -61,7 +61,7 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
    *Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh (SETSM 2026)* — INTL · conference · Best Paper Award
 2. **Thiết kế và động học ngược của robot liên tục** (2026).  
    *Journal of Science and Technology in Transportation (JSTT)* — Q3 · journal
-3. **Thiết kế ngược có AI dẫn dắt cho composite sợi liên tục in 3D bằng đồng nhất hoá đa tỷ lệ và mạng nơ-ron kép** (2026).  
+3. **[Thiết kế ngược có AI dẫn dắt cho composite sợi liên tục in 3D bằng đồng nhất hoá đa tỷ lệ và mạng nơ-ron kép](https://doi.org/10.1007/s00170-026-17787-2)** (2026).  
    *The International Journal of Advanced Manufacturing Technology (IJAMT)* — Q1 · journal
 4. **Hướng tới hệ điều khiển vạn năng mã nguồn mở cho robot công nghiệp trong Công nghiệp 4.0** (2025).  
    *Proceedings in Technology Transfer, Springer — kỷ yếu SETSM lần thứ nhất (Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh), 2024* — INTL · chapter · tác giả chính
