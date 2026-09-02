@@ -134,10 +134,10 @@ Hanoi University of Science and Technology · Vietnam
 ### Courses
 | Course | Code | Level | Years |
 |---|---|---|---|
-| CAD/CAM | ME6114 | Undergraduate | 2023–2024 |
-| 3D Printing Technology | — | Undergraduate | 2024–2025 |
 | CAD/CAM | — | Undergraduate | 2026 |
 | Industrial Internship | ME6040 | Undergraduate | 2024–2026 |
+| 3D Printing Technology | — | Undergraduate | 2024–2025 |
+| CAD/CAM | ME6114 | Undergraduate | 2023–2024 |
 | Manufacturing Technology | — | University · College | 2010–2012 |
 | CNC Technology | — | University · College | 2010–2012 |
 | Jigs and Fixtures | — | University · College | 2010–2012 |
@@ -145,13 +145,13 @@ Hanoi University of Science and Technology · Vietnam
 ### Supervision
 | Kind | Cohort | Supervised | Reviewed |
 |---|---|---:|---:|
-| Graduation thesis | 2023–2024 | — | 2 |
-| Graduation thesis | 2024–2025 | — | — |
 | Graduation thesis | 2026 (K17) | — | — |
-| Industrial internship | K15 | — | — |
-| Graduation internship | K16 | — | — |
 | Graduation internship | K17 (2026) | 5 | — |
+| Graduation thesis | 2024–2025 | — | — |
+| Graduation thesis | 2023–2024 | — | 2 |
 | Master's students | 2024 | 2 | — |
+| Graduation internship | K16 | — | — |
+| Industrial internship | K15 | — | — |
 
 A “—” means the figure has not been extracted yet — not that it is zero.
 
@@ -160,12 +160,12 @@ A “—” means the figure has not been extracted yet — not that it is zero.
 IEEE Transactions on Robotics (Q1), IEEE Robotics and Automation Letters (Q1), Advanced Robotics (Q1), Robotics: Science and Systems (A*), IEEE RoboSoft, IEEE/SICE SII
 
 ### Conference roles
-- **2026** — Keynote speaker, ICCIT 2026
-- **2025** — Keynote speaker, ICCIT 2025
-- **2025** — Chair, SETSM 2025
+- **2026** — Keynote speaker, [ICCIT 2026](https://iccit.buv.edu.vn/)
+- **2025** — Keynote speaker, [ICCIT 2025](https://iccit.buv.edu.vn/2025.html)
+- **2025** — Chair, [SETSM 2025](https://link.springer.com/book/10.1007/978-981-95-1750-3)
 - **2024** — Keynote speaker, RICE 2024
-- **2024** — Chair, SETSM 2024
-- **2024** — Session Chair, APSIPA ASC 2024
+- **2024** — Chair, [SETSM 2024](https://link.springer.com/book/10.1007/978-981-97-7083-0)
+- **2024** — Session Chair, [APSIPA ASC 2024](https://www.apsipa.org/asc_web/apsipa2024/index.html)
 - **2023** — Keynote speaker, RICE 2023
 
 ### Consulting areas

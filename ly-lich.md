@@ -134,10 +134,10 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 ### Học phần
 | Học phần | Mã | Bậc | Năm |
 |---|---|---|---|
-| CAD/CAM | ME6114 | Đại học | 2023–2024 |
-| Công nghệ in 3D | — | Đại học | 2024–2025 |
 | CAD/CAM | — | Đại học | 2026 |
 | Thực tập doanh nghiệp | ME6040 | Đại học | 2024–2026 |
+| Công nghệ in 3D | — | Đại học | 2024–2025 |
+| CAD/CAM | ME6114 | Đại học | 2023–2024 |
 | Công nghệ chế tạo máy | — | Đại học · Cao đẳng | 2010–2012 |
 | Công nghệ CNC | — | Đại học · Cao đẳng | 2010–2012 |
 | Đồ gá | — | Đại học · Cao đẳng | 2010–2012 |
@@ -145,13 +145,13 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 ### Hướng dẫn người học
 | Loại | Khoá | Hướng dẫn | Phản biện |
 |---|---|---:|---:|
-| Đồ án/Khóa luận tốt nghiệp | 2023–2024 | — | 2 |
-| Đồ án tốt nghiệp | 2024–2025 | — | — |
 | Đồ án tốt nghiệp | 2026 (K17) | — | — |
-| Thực tập doanh nghiệp | K15 | — | — |
-| Thực tập tốt nghiệp | K16 | — | — |
 | Thực tập tốt nghiệp | K17 (2026) | 5 | — |
+| Đồ án tốt nghiệp | 2024–2025 | — | — |
+| Đồ án/Khóa luận tốt nghiệp | 2023–2024 | — | 2 |
 | Học viên cao học | 2024 | 2 | — |
+| Thực tập tốt nghiệp | K16 | — | — |
+| Thực tập doanh nghiệp | K15 | — | — |
 
 Ô “—” là số chưa bóc được từ hồ sơ gốc, chưa phải là không có.
 
@@ -160,12 +160,12 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 IEEE Transactions on Robotics (Q1), IEEE Robotics and Automation Letters (Q1), Advanced Robotics (Q1), Robotics: Science and Systems (A*), IEEE RoboSoft, IEEE/SICE SII
 
 ### Vai trò tại hội nghị
-- **2026** — Keynote speaker, ICCIT 2026
-- **2025** — Keynote speaker, ICCIT 2025
-- **2025** — Chair, SETSM 2025
+- **2026** — Keynote speaker, [ICCIT 2026](https://iccit.buv.edu.vn/)
+- **2025** — Keynote speaker, [ICCIT 2025](https://iccit.buv.edu.vn/2025.html)
+- **2025** — Chair, [SETSM 2025](https://link.springer.com/book/10.1007/978-981-95-1750-3)
 - **2024** — Keynote speaker, RICE 2024
-- **2024** — Chair, SETSM 2024
-- **2024** — Session Chair, APSIPA ASC 2024
+- **2024** — Chair, [SETSM 2024](https://link.springer.com/book/10.1007/978-981-97-7083-0)
+- **2024** — Session Chair, [APSIPA ASC 2024](https://www.apsipa.org/asc_web/apsipa2024/index.html)
 - **2023** — Keynote speaker, RICE 2023
 
 ### Lĩnh vực có thể tư vấn
