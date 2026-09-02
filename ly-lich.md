@@ -99,7 +99,7 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 27. **Nghiên cứu công nghệ cắt bằng tia nước có hạt mài** (2012).  
    *Tạp chí Cơ khí Việt Nam* — NATIONAL · journal
 
-## Sáng chế và giải pháp hữu ích (7)
+## Sáng chế và giải pháp hữu ích (11)
 1. **[Cơ cấu giảm chấn và phát hiện va chạm cho cánh quạt (TomboHub)](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202402456)** — Việt Nam · Cục Sở hữu trí tuệ · Đã cấp Bằng độc quyền sáng chế  
    Bằng số 49382, cấp 30/6/2025 · đơn 1-2024-02456
 2. **[Tay gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407293)** — Việt Nam · Cục Sở hữu trí tuệ · Đã cấp Bằng độc quyền sáng chế  
@@ -114,6 +114,14 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
    đơn 1-2024-05119
 7. **Tay gắp mềm phỏng sinh học từ hoa hồng** — Nhật Bản · JPO · Đã nộp đơn  
    đơn 特願2023-016702
+8. **[Cơ cấu mềm phỏng sinh học với ngón tay tự lựa và thay thế được](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202409018)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+   đơn 1-2024-09018
+9. **[Bánh xe sinh học nguyên khối dễ thay thế, sửa chữa và có khả năng phân hủy sinh học](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502969)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+   đơn 1-2025-02969
+10. **[Thiết bị cứu hộ đuối nước nhỏ gọn, kích hoạt tự động khi gặp nước](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502968)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+   đơn 1-2025-02968
+11. **[Thiết bị cứu hộ đuối nước đeo tay](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502967)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+   đơn 1-2025-02967
 
 ## Giải thưởng (4)
 - **2026** — Best Paper Award — bài “Robot di động hỗ trợ dẫn đường cho người khiếm thị”, Hội nghị quốc tế về Bền vững và Công nghệ mới nổi cho Sản xuất thông minh (SETSM 2026)

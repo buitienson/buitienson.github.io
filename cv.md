@@ -99,7 +99,7 @@ Hanoi University of Science and Technology · Vietnam
 27. **Research on Abrasive Waterjet Technology** (2012).  
    *Vietnam Journal of Mechanical Engineering* — NATIONAL · journal
 
-## Patents (7)
+## Patents (11)
 1. **[Damping and collision-detection mechanism for propellers (TomboHub)](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202402456)** — Vietnam · Intellectual Property Office · Patent granted  
    Patent No. 49382, granted 30/6/2025 · app. 1-2024-02456
 2. **[Bio-mimetic soft gripper based on rotational motion](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407293)** — Vietnam · Intellectual Property Office · Patent granted  
@@ -114,6 +114,14 @@ Hanoi University of Science and Technology · Vietnam
    app. 1-2024-05119
 7. **Rose-inspired bio-mimetic soft gripper** — Japan · JPO · Application filed  
    app. 特願2023-016702
+8. **[Bio-mimetic soft mechanism with self-aligning replaceable fingers](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202409018)** — Vietnam · Intellectual Property Office · Application accepted  
+   app. 1-2024-09018
+9. **[One-piece biodegradable bio-wheel, easy to replace and repair](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502969)** — Vietnam · Intellectual Property Office · Application accepted  
+   app. 1-2025-02969
+10. **[Compact drowning-rescue device, automatically activated on contact with water](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502968)** — Vietnam · Intellectual Property Office · Application accepted  
+   app. 1-2025-02968
+11. **[Wrist-worn drowning-rescue device](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502967)** — Vietnam · Intellectual Property Office · Application accepted  
+   app. 1-2025-02967
 
 ## Awards (4)
 - **2026** — Best Paper Award — “Mobile Robot for Blind Navigation Assistance”, Intl. Conference on Sustainability and Emerging Technologies for Smart Manufacturing (SETSM 2026)
