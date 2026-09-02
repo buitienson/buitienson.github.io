@@ -100,17 +100,17 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
    *Tạp chí Cơ khí Việt Nam* — NATIONAL · journal
 
 ## Sáng chế và giải pháp hữu ích (7)
-1. **Cơ cấu giảm chấn và phát hiện va chạm cho cánh quạt (TomboHub)** — Việt Nam · Cục Sở hữu trí tuệ · Đã cấp Bằng độc quyền sáng chế  
+1. **[Cơ cấu giảm chấn và phát hiện va chạm cho cánh quạt (TomboHub)](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202402456)** — Việt Nam · Cục Sở hữu trí tuệ · Đã cấp Bằng độc quyền sáng chế  
    Bằng số 49382, cấp 30/6/2025 · đơn 1-2024-02456
-2. **Tay gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn** — Việt Nam · Cục Sở hữu trí tuệ · Đã cấp Bằng độc quyền sáng chế  
+2. **[Tay gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407293)** — Việt Nam · Cục Sở hữu trí tuệ · Đã cấp Bằng độc quyền sáng chế  
    Bằng số 58606, cấp 27/5/2026 · đơn 1-2024-07293
-3. **Cơ cấu gắp mềm phỏng sinh học từ con sứa dựa vào chuyển động xoay tròn** — Việt Nam · Cục Sở hữu trí tuệ · Thẩm định nội dung đạt — dự định cấp bằng  
+3. **[Cơ cấu gắp mềm phỏng sinh học từ con sứa dựa vào chuyển động xoay tròn](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407292)** — Việt Nam · Cục Sở hữu trí tuệ · Thẩm định nội dung đạt — dự định cấp bằng  
    đơn 1-2024-07292
-4. **Cơ cấu gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn với góc và dạng ngón tay linh hoạt** — Việt Nam · Cục Sở hữu trí tuệ · Thẩm định nội dung đạt — dự định cấp bằng  
+4. **[Cơ cấu gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn với góc và dạng ngón tay linh hoạt](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407963)** — Việt Nam · Cục Sở hữu trí tuệ · Thẩm định nội dung đạt — dự định cấp bằng  
    đơn 1-2024-07963
-5. **Cơ cấu xúc giác mềm tích hợp mô hình thị giác hỗ trợ phân loại vật thể, cảm nhận va chạm và lực tiếp xúc** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+5. **[Cơ cấu xúc giác mềm tích hợp mô hình thị giác hỗ trợ phân loại vật thể, cảm nhận va chạm và lực tiếp xúc](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405118)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
    đơn 1-2024-05118
-6. **Cánh quạt đàn hồi cho thiết bị bay không người lái** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+6. **[Cánh quạt đàn hồi cho thiết bị bay không người lái](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405119)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
    đơn 1-2024-05119
 7. **Tay gắp mềm phỏng sinh học từ hoa hồng** — Nhật Bản · JPO · Đã nộp đơn  
    đơn 特願2023-016702

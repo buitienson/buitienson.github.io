@@ -100,17 +100,17 @@ Hanoi University of Science and Technology · Vietnam
    *Vietnam Journal of Mechanical Engineering* — NATIONAL · journal
 
 ## Patents (7)
-1. **Damping and collision-detection mechanism for propellers (TomboHub)** — Vietnam · Intellectual Property Office · Patent granted  
+1. **[Damping and collision-detection mechanism for propellers (TomboHub)](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202402456)** — Vietnam · Intellectual Property Office · Patent granted  
    Patent No. 49382, granted 30/6/2025 · app. 1-2024-02456
-2. **Bio-mimetic soft gripper based on rotational motion** — Vietnam · Intellectual Property Office · Patent granted  
+2. **[Bio-mimetic soft gripper based on rotational motion](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407293)** — Vietnam · Intellectual Property Office · Patent granted  
    Patent No. 58606, granted 27/5/2026 · app. 1-2024-07293
-3. **Jellyfish-inspired soft gripper based on rotational motion** — Vietnam · Intellectual Property Office · Substantive examination passed — grant intended  
+3. **[Jellyfish-inspired soft gripper based on rotational motion](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407292)** — Vietnam · Intellectual Property Office · Substantive examination passed — grant intended  
    app. 1-2024-07292
-4. **Bio-mimetic soft gripper with adjustable finger angle and shape** — Vietnam · Intellectual Property Office · Substantive examination passed — grant intended  
+4. **[Bio-mimetic soft gripper with adjustable finger angle and shape](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407963)** — Vietnam · Intellectual Property Office · Substantive examination passed — grant intended  
    app. 1-2024-07963
-5. **Soft tactile mechanism with integrated vision model for object classification, collision sensing and contact force** — Vietnam · Intellectual Property Office · Application accepted  
+5. **[Soft tactile mechanism with integrated vision model for object classification, collision sensing and contact force](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405118)** — Vietnam · Intellectual Property Office · Application accepted  
    app. 1-2024-05118
-6. **Elastic propeller for unmanned aerial vehicles** — Vietnam · Intellectual Property Office · Application accepted  
+6. **[Elastic propeller for unmanned aerial vehicles](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405119)** — Vietnam · Intellectual Property Office · Application accepted  
    app. 1-2024-05119
 7. **Rose-inspired bio-mimetic soft gripper** — Japan · JPO · Application filed  
    app. 特願2023-016702
