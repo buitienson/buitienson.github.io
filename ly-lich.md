@@ -10,19 +10,6 @@ Phụ trách Phòng thí nghiệm Robot mềm (Soft Robotics Lab)
 ## Giới thiệu
 Nghiên cứu robot mềm — cấu trúc biến dạng chịu va chạm, cơ cấu gắp mềm phỏng sinh học và cảm biến xúc giác quang học. Nhận bằng Tiến sĩ tại Viện Khoa học và Công nghệ Tiên tiến Nhật Bản (JAIST) năm 2023, sau một năm thực tập sinh khoa học về công nghệ phủ PVD tại National Institute of Technology, Tsuruoka College. Trước đó làm về công nghệ màng mỏng và bề mặt siêu kỵ nước. Hiện là Phó trưởng Phòng Đổi mới Sáng tạo, Ban Khoa học, Công nghệ và Đổi mới sáng tạo của HaUI; giảng dạy và phụ trách Soft Robotics Lab.
 
-## Số liệu tổng quan
-| | |
-|---|---:|
-| công trình công bố | 27 |
-| bài tạp chí | 10 |
-| công trình Q1 / A* / A | 5 |
-| sáng chế đã nộp | 7 |
-| bằng độc quyền đã cấp | 2 |
-| giải thưởng | 4 |
-| đề tài, dự án | 3 |
-| người học hướng dẫn | 9 |
-| năm giảng dạy | 16 |
-
 ## Quá trình công tác
 **2024–nay — Phó trưởng Phòng Đổi mới Sáng tạo**  
 Ban Khoa học, Công nghệ và Đổi mới sáng tạo, Đại học Công nghiệp Hà Nội  
@@ -188,4 +175,4 @@ Robot mềm, Công nghệ kỹ thuật cơ khí, Công nghệ chế tạo máy, 
 Tiếng Việt — Bản ngữ, Tiếng Anh — Tốt — nghe, nói, đọc, viết
 
 ---
-*Sinh tự động từ `_web/data/*.yml` ngày 2026-09-01. Đừng sửa thẳng vào file này — sửa YAML rồi dựng lại.*
+*Sinh tự động từ `_web/data/*.yml` ngày 2026-09-02. Đừng sửa thẳng vào file này — sửa YAML rồi dựng lại.*
