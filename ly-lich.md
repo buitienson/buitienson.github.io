@@ -108,14 +108,14 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
    Bằng số 61287, cấp 07/09/2026 · đơn 1-2024-07292
 4. **[Cơ cấu gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn với góc và dạng ngón tay linh hoạt](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407963)** — Việt Nam · Cục Sở hữu trí tuệ · Đã nộp phí cấp bằng — chờ cấp Bằng độc quyền chính thức  
    đơn 1-2024-07963
-5. **[Cơ cấu xúc giác mềm tích hợp mô hình thị giác hỗ trợ phân loại vật thể, cảm nhận va chạm và lực tiếp xúc](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405118)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+5. **[Cơ cấu xúc giác mềm tích hợp mô hình thị giác hỗ trợ phân loại vật thể, cảm nhận va chạm và lực tiếp xúc](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405118)** — Việt Nam · Cục Sở hữu trí tuệ · Đã nộp phí cấp bằng — chờ cấp Bằng độc quyền chính thức  
    đơn 1-2024-05118
-6. **[Cánh quạt đàn hồi cho thiết bị bay không người lái](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405119)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
-   đơn 1-2024-05119
-7. **Tay gắp mềm phỏng sinh học từ hoa hồng** — Nhật Bản · JPO · Đã nộp đơn  
-   đơn 特願2023-016702
-8. **[Cơ cấu mềm phỏng sinh học với ngón tay tự lựa và thay thế được](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202409018)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+6. **[Cơ cấu mềm phỏng sinh học với ngón tay tự lựa và thay thế được](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202409018)** — Việt Nam · Cục Sở hữu trí tuệ · Đã nộp phí cấp bằng — chờ cấp Bằng độc quyền chính thức  
    đơn 1-2024-09018
+7. **[Cánh quạt đàn hồi cho thiết bị bay không người lái](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405119)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
+   đơn 1-2024-05119
+8. **Tay gắp mềm phỏng sinh học từ hoa hồng** — Nhật Bản · JPO · Đã nộp đơn  
+   đơn 特願2023-016702
 9. **[Bánh xe sinh học nguyên khối dễ thay thế, sửa chữa và có khả năng phân hủy sinh học](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502969)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
    đơn 1-2025-02969
 10. **[Thiết bị cứu hộ đuối nước nhỏ gọn, kích hoạt tự động khi gặp nước](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502968)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  

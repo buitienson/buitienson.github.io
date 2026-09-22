@@ -108,14 +108,14 @@ Hanoi University of Science and Technology · Vietnam
    Patent No. 61287, granted 07/09/2026 · app. 1-2024-07292
 4. **[Bio-mimetic soft gripper with adjustable finger angle and shape](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407963)** — Vietnam · Intellectual Property Office · Grant fees paid — awaiting the official patent certificate  
    app. 1-2024-07963
-5. **[Soft tactile mechanism with integrated vision model for object classification, collision sensing and contact force](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405118)** — Vietnam · Intellectual Property Office · Application accepted  
+5. **[Soft tactile mechanism with integrated vision model for object classification, collision sensing and contact force](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405118)** — Vietnam · Intellectual Property Office · Grant fees paid — awaiting the official patent certificate  
    app. 1-2024-05118
-6. **[Elastic propeller for unmanned aerial vehicles](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405119)** — Vietnam · Intellectual Property Office · Application accepted  
-   app. 1-2024-05119
-7. **Rose-inspired bio-mimetic soft gripper** — Japan · JPO · Application filed  
-   app. 特願2023-016702
-8. **[Bio-mimetic soft mechanism with self-aligning replaceable fingers](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202409018)** — Vietnam · Intellectual Property Office · Application accepted  
+6. **[Bio-mimetic soft mechanism with self-aligning replaceable fingers](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202409018)** — Vietnam · Intellectual Property Office · Grant fees paid — awaiting the official patent certificate  
    app. 1-2024-09018
+7. **[Elastic propeller for unmanned aerial vehicles](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405119)** — Vietnam · Intellectual Property Office · Application accepted  
+   app. 1-2024-05119
+8. **Rose-inspired bio-mimetic soft gripper** — Japan · JPO · Application filed  
+   app. 特願2023-016702
 9. **[One-piece biodegradable bio-wheel, easy to replace and repair](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502969)** — Vietnam · Intellectual Property Office · Application accepted  
    app. 1-2025-02969
 10. **[Compact drowning-rescue device, automatically activated on contact with water](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202502968)** — Vietnam · Intellectual Property Office · Application accepted  
