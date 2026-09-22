@@ -104,9 +104,9 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
    Bằng số 49382, cấp 30/6/2025 · đơn 1-2024-02456
 2. **[Tay gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407293)** — Việt Nam · Cục Sở hữu trí tuệ · Đã cấp Bằng độc quyền sáng chế  
    Bằng số 58606, cấp 27/5/2026 · đơn 1-2024-07293
-3. **[Cơ cấu gắp mềm phỏng sinh học từ con sứa dựa vào chuyển động xoay tròn](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407292)** — Việt Nam · Cục Sở hữu trí tuệ · Thẩm định nội dung đạt — dự định cấp bằng  
-   đơn 1-2024-07292
-4. **[Cơ cấu gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn với góc và dạng ngón tay linh hoạt](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407963)** — Việt Nam · Cục Sở hữu trí tuệ · Thẩm định nội dung đạt — dự định cấp bằng  
+3. **[Cơ cấu gắp mềm phỏng sinh học từ con sứa dựa vào chuyển động xoay tròn](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407292)** — Việt Nam · Cục Sở hữu trí tuệ · Đã cấp Bằng độc quyền sáng chế  
+   Bằng số 61287, cấp 07/09/2026 · đơn 1-2024-07292
+4. **[Cơ cấu gắp mềm phỏng sinh học dựa vào chuyển động xoay tròn với góc và dạng ngón tay linh hoạt](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202407963)** — Việt Nam · Cục Sở hữu trí tuệ · Đã nộp phí cấp bằng — chờ cấp Bằng độc quyền chính thức  
    đơn 1-2024-07963
 5. **[Cơ cấu xúc giác mềm tích hợp mô hình thị giác hỗ trợ phân loại vật thể, cảm nhận va chạm và lực tiếp xúc](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202405118)** — Việt Nam · Cục Sở hữu trí tuệ · Chấp nhận đơn hợp lệ  
    đơn 1-2024-05118
@@ -183,4 +183,4 @@ Robot mềm, Công nghệ kỹ thuật cơ khí, Công nghệ chế tạo máy, 
 Tiếng Việt — Bản ngữ, Tiếng Anh — Tốt — nghe, nói, đọc, viết
 
 ---
-*Sinh tự động từ `_web/data/*.yml` ngày 2026-09-02. Đừng sửa thẳng vào file này — sửa YAML rồi dựng lại.*
+*Sinh tự động từ `_web/data/*.yml` ngày 2026-09-22. Đừng sửa thẳng vào file này — sửa YAML rồi dựng lại.*

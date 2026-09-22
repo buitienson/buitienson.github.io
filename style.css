@@ -172,6 +172,14 @@ a { color:var(--accent); text-decoration-thickness:1px; text-underline-offset:2p
   color:var(--ink-2); text-decoration:none; }
 .toc a:hover { color:var(--accent); }
 .toc a.priv { color:#c0453a; }
+.toc a.on { color:var(--accent); border-bottom:2px solid var(--accent); padding-bottom:.15rem; }
+
+/* --- header đơn giản cho các trang công cụ (Chuẩn PGS, Chi tiết, Soạn hồ sơ) —
+   KHÔNG dùng kiểu .hero (đó là trang giới thiệu cá nhân), chỉ nav + tiêu đề. */
+.tool-header { max-width:var(--measure); margin:0 auto 2rem; }
+.tool-header .toc { margin-bottom:1.6rem; }
+.tool-header h1 { font:400 clamp(1.5rem,3.4vw,2rem)/1.25 var(--serif); margin:0 0 .4rem; letter-spacing:-.01em; }
+.tool-header .note { margin:0; }
 
 main { max-width:var(--measure); margin:0 auto; }
 section { margin:0 0 4rem; scroll-margin-top:4rem; }
@@ -247,6 +255,115 @@ h3 { font:600 1rem/1.3 var(--sans); margin:2.2rem 0 .9rem; color:var(--ink-2); }
 .b-q1, .b-astar, .b-a { background:var(--accent-soft); border-color:var(--accent); color:var(--accent); }
 .b-hl { background:var(--accent-soft); border-color:var(--accent); color:var(--accent); text-transform:none; letter-spacing:.02em; }
 .b-role { border-style:dashed; }
+
+/* --- rà điều kiện (chuẩn PGS) --- */
+.b-dat { background:var(--accent-soft); border-color:var(--accent); color:var(--accent); }
+.b-chua { background:none; border-color:#c0453a; color:#c0453a; }
+.b-xacnhan { border-style:dashed; color:var(--ink-3); }
+.b-clause { border-style:none; background:none; padding-left:0; color:var(--ink-3); text-transform:none; letter-spacing:0; font-weight:400; }
+.evidence { margin:.5rem 0 0; font:500 .82rem/1.6 var(--sans); color:var(--ink-3); }
+.evidence a { font-weight:600; }
+/* Trang Chuẩn PGS đứng riêng, chỉ mở trên máy — chốt khắt khe: không chữ nào được
+   tràn ngang trên điện thoại, kể cả số đơn/số bằng dài không có khoảng trắng. */
+/* CHỈ áp overflow-wrap cho văn xuôi (không áp cho table/th/td) — word-break:break-word
+   trên ô bảng phá mất chiều rộng tự nhiên của cột, ép trình duyệt bẻ chữ từng ký tự
+   thay vì để bảng cuộn ngang (`table { display:block; overflow-x:auto }` đã lo việc đó). */
+#pgs .crit b, #pgs .crit .where, #pgs .crit .detail,
+#pgs .evidence, #pgs .evidence a { overflow-wrap:break-word; }
+#pgs .badges { row-gap:.4rem; }
+.pgs-score { display:flex; align-items:baseline; gap:.6rem; margin:.4rem 0 .3rem; }
+.pgs-score-num { font:400 2.6rem/1 var(--serif); color:var(--accent); }
+.pgs-score-num span { font-size:1.4rem; color:var(--ink-3); }
+.pgs-score-label { font:600 12px/1.4 var(--sans); letter-spacing:.04em; text-transform:uppercase; color:var(--ink-3); }
+.pgs-export { margin:.8rem 0 1.6rem; }
+
+/* --- trang tràn viền (Soạn hồ sơ) — bỏ khung var(--measure) căn giữa của site,
+   sát mép trái/phải trình duyệt như yêu cầu, chỉ chừa gutter nhỏ. --- */
+body.tool-wide .tool-header,
+body.tool-wide main,
+body.tool-wide footer { max-width:none; padding-inline:1.4rem; }
+
+/* --- trang Soạn hồ sơ (ho-so.html) --- */
+.doc-tabs { display:flex; gap:.5rem; flex-wrap:wrap; margin:0 0 1.2rem; }
+.doc-tabs button {
+  font:600 12.5px/1 var(--sans); letter-spacing:.02em; cursor:pointer;
+  background:none; border:1px solid var(--rule-2); color:var(--ink-2); padding:.55rem 1rem; border-radius:5px;
+}
+.doc-tabs button.on { background:var(--accent); border-color:var(--accent); color:var(--bg); }
+.editor-toolbar { display:flex; align-items:center; gap:.7rem; flex-wrap:wrap; margin:0 0 1.2rem; }
+.editor-tabs { display:none; gap:.5rem; margin:0 0 1rem; }
+.editor-tabs button {
+  font:500 12.5px/1 var(--sans); letter-spacing:.02em; cursor:pointer;
+  background:none; border:1px solid var(--rule-2); color:var(--ink-2); padding:.5rem .9rem; border-radius:4px;
+}
+.editor-tabs button.on { background:var(--accent-soft); border-color:var(--accent); color:var(--accent); }
+.editor-grid { display:flex; align-items:flex-start; gap:2rem; }
+.editor-col { min-width:0; }
+#col-form { flex:1 1 auto; min-width:0; }
+#col-preview { flex:0 0 auto; position:sticky; top:1rem; }
+.editor-field { margin:0 0 1.1rem; display:flex; flex-direction:column; gap:.35rem; }
+.editor-field label { font:600 12px/1.4 var(--sans); color:var(--ink-2); }
+.field-hint { margin:0; font:400 11.5px/1.4 var(--sans); color:var(--ink-3); font-style:italic; }
+.editor-field textarea, .editor-field select {
+  font:400 .95rem/1.5 var(--serif); color:var(--ink); background:var(--panel);
+  border:1px solid var(--rule-2); border-radius:4px; padding:.6rem .7rem; resize:vertical;
+  width:100%; box-sizing:border-box;
+}
+.editor-field select { appearance:auto; }
+.editor-field textarea:focus, .editor-field select:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
+.wc { font:500 11px var(--mono); color:var(--ink-3); }
+.wc-over { color:#c0453a; }
+
+/* Khung xem trước — khổ A4 dọc thật (tỉ lệ 1:1,4142), nền trắng/chữ đen CỐ Ý bất kể
+   sáng/tối của site (mô phỏng đúng bản in), Times New Roman theo Phụ lục I NĐ 30/2020
+   (không có mẫu chính thức của dự thảo Thông tư nên dùng chuẩn trình bày văn bản hành
+   chính chung). Bề rộng kéo được bằng tay cầm bên phải, chiều cao tự theo aspect-ratio. */
+.preview-wrap { display:flex; align-items:flex-start; }
+.preview-page {
+  width:620px; max-width:80vw; aspect-ratio:1 / 1.4142; flex:none;
+  box-shadow:0 8px 30px rgba(0,0,0,.35); background:#fff; overflow:hidden;
+}
+.preview-pane {
+  width:100%; height:100%; overflow-y:auto; box-sizing:border-box;
+  padding:9.52% 9.52% 9.52% 14.29%; /* ~20/20/20mm trên-phải-dưới, 30mm trái, theo NĐ 30/2020 */
+  background:#fff; color:#111; font-family:"Times New Roman",Georgia,serif;
+  font-size:.92rem; line-height:1.5; text-align:justify;
+}
+.preview-pane p { margin:0 0 8pt; text-indent:1cm; }
+.preview-pane .doc-center { text-align:center; text-indent:0; }
+.preview-pane h1, .preview-pane h2, .preview-pane h3 { text-indent:0; font-weight:700; color:#111; }
+.preview-pane h2 { font-size:1rem; margin:1.3rem 0 .5rem; }
+.preview-pane h3 { font-size:.94rem; margin:.9rem 0 .4rem; }
+.preview-pane ul { margin:0 0 8pt; padding-left:1.2rem; text-align:left; }
+.preview-pane li { margin:0 0 4pt; }
+.preview-pane table { width:100%; border-collapse:collapse; margin:0 0 10pt; font-size:.78rem; }
+.preview-pane td, .preview-pane th { border:1px solid #111; padding:4pt 6pt; text-align:left; text-indent:0; }
+.preview-pane th { font-weight:700; }
+.resize-handle {
+  flex:none; width:14px; align-self:stretch; cursor:ew-resize; position:relative;
+  display:flex; align-items:center; justify-content:center;
+}
+.resize-handle span {
+  width:4px; height:48px; border-radius:2px; background:var(--rule-2); display:block;
+}
+.resize-handle:hover span, .resize-handle.dragging span { background:var(--accent); }
+@media (max-width:820px) {
+  .editor-tabs { display:flex; }
+  .editor-grid { flex-direction:column; }
+  .editor-grid[data-active="form"] #col-preview { display:none; }
+  .editor-grid[data-active="preview"] #col-form { display:none; }
+  #col-preview { position:static; width:100%; }
+  .preview-page { width:100% !important; max-width:100%; }
+  .resize-handle { display:none; }
+}
+@media (max-width:480px) {
+  .pgs-hero .headline { font-size:.95rem; }
+  #pgs .b { font-size:10px; padding:.3rem .45rem; }
+  #pgs .evidence a { display:inline-block; }
+}
+.plain li.crit { border-left:2px solid var(--rule-2); padding-left:1rem; }
+.plain li.crit-dat { border-left-color:var(--accent); }
+.plain li.crit-chua { border-left-color:#c0453a; }
 
 /* --- gấp danh sách dài, sổ ra khi cần ---
    Mục thứ 6 trở đi mang class .extra. Mặc định KHÔNG ẩn: chỉ khi JS chạy được
