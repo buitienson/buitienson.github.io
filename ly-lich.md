@@ -60,8 +60,8 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
    *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — Q4 · conference
 8. **[Điều khiển trượt cho quadrotor](https://doi.org/10.1007/978-981-95-1746-6_33)** (2025).  
    *Hội nghị quốc tế về Hệ thống thông minh và Mạng (ICISN 2025)* — Q4 · conference
-9. **[DigitEye: Cảm biến xúc giác mềm trong suốt](https://doi.org/10.36897/jme/213851)** (2025).  
-   *Journal of Mechanical Engineering (JME)* — Q2 · journal · tác giả chính
+9. **[DigitEye: Cảm biến xúc giác mềm trong suốt cho cảm nhận đa phương thức bền vững](https://doi.org/10.36897/jme/213851)** (2025).  
+   *Journal of Machine Engineering (JME) 25(4), 91–105* — Q2 · journal · tác giả chính
 10. **[Động lực học va chạm của cánh quạt biến dạng có động cơ cho drone](https://doi.org/10.1109/UR61395.2024.10597535)** (2024).  
    *Hội nghị quốc tế lần thứ 21 về Ubiquitous Robots (UR 2024)* — INTL · conference
 11. **[Giải pháp phát hiện bất thường của đậu đỏ trên dây chuyền chế biến](https://doi.org/10.1109/APSIPAASC63619.2025.10849036)** (2024).  

@@ -60,8 +60,8 @@ Hanoi University of Science and Technology · Vietnam
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — Q4 · conference
 8. **[Sliding Mode Control for a Quadrotor](https://doi.org/10.1007/978-981-95-1746-6_33)** (2025).  
    *Intl. Conference on Intelligent Systems and Networks (ICISN 2025)* — Q4 · conference
-9. **[DigitEye: A Transparent Soft Tactile Sensor](https://doi.org/10.36897/jme/213851)** (2025).  
-   *Journal of Mechanical Engineering (JME)* — Q2 · journal · first author
+9. **[DigitEye: A Transparent Soft Tactile Sensor for Robust Multi-Modal Perception](https://doi.org/10.36897/jme/213851)** (2025).  
+   *Journal of Machine Engineering (JME) 25(4), 91–105* — Q2 · journal · first author
 10. **[Collision Dynamics of Motorized Deformable Propellers for Drones](https://doi.org/10.1109/UR61395.2024.10597535)** (2024).  
    *21st Intl. Conference on Ubiquitous Robots (UR 2024)* — INTL · conference
 11. **[A Solution for Anomaly Detection of Red Beans in a Product Processing Line](https://doi.org/10.1109/APSIPAASC63619.2025.10849036)** (2024).  
