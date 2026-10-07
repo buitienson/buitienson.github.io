@@ -140,18 +140,6 @@ Hanoi University of Science and Technology · Vietnam
 - **2026** — [Touch to Robotics — hands-on STEM experience event](https://buitienson.github.io/touch-to-robotics/) — VICEE — technical sponsorship by Soft Robotics Lab (Principal organiser)
   60 primary/lower-secondary students explored 5 robotic mechanisms hands-on, built a piece of their own, and raced it on the spot.
 
-## Teaching
-### Courses
-| Course | Code | Level | Years |
-|---|---|---|---|
-| CAD/CAM | — | Undergraduate | 2026 |
-| Industrial Internship | ME6040 | Undergraduate | 2024–2026 |
-| 3D Printing Technology | — | Undergraduate | 2024–2025 |
-| CAD/CAM | ME6114 | Undergraduate | 2023–2024 |
-| Manufacturing Technology | — | University · College | 2010–2012 |
-| CNC Technology | — | University · College | 2010–2012 |
-| Jigs and Fixtures | — | University · College | 2010–2012 |
-
 ## Service
 ### Peer review for
 IEEE Transactions on Robotics (Q1), IEEE Robotics and Automation Letters (Q1), Advanced Robotics (Q1), Robotics: Science and Systems (A*), IEEE RoboSoft, IEEE/SICE SII

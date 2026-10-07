@@ -140,18 +140,6 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 - **2026** — [Touch to Robotics — sự kiện trải nghiệm STEM](https://buitienson.github.io/touch-to-robotics/) — VICEE — bảo trợ kỹ thuật: Soft Robotics Lab (Chủ trì)
   60 học sinh cấp 1–2 tự tay khám phá 5 cơ cấu robot, chế tạo một sản phẩm của riêng mình rồi mang ra thi đấu ngay tại chỗ.
 
-## Giảng dạy
-### Học phần
-| Học phần | Mã | Bậc | Năm |
-|---|---|---|---|
-| CAD/CAM | — | Đại học | 2026 |
-| Thực tập doanh nghiệp | ME6040 | Đại học | 2024–2026 |
-| Công nghệ in 3D | — | Đại học | 2024–2025 |
-| CAD/CAM | ME6114 | Đại học | 2023–2024 |
-| Công nghệ chế tạo máy | — | Đại học · Cao đẳng | 2010–2012 |
-| Công nghệ CNC | — | Đại học · Cao đẳng | 2010–2012 |
-| Đồ gá | — | Đại học · Cao đẳng | 2010–2012 |
-
 ## Chuyên môn và phục vụ cộng đồng
 ### Phản biện cho
 IEEE Transactions on Robotics (Q1), IEEE Robotics and Automation Letters (Q1), Advanced Robotics (Q1), Robotics: Science and Systems (A*), IEEE RoboSoft, IEEE/SICE SII

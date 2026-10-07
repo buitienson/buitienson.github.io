@@ -29,9 +29,6 @@
   --bar:#3a3a38; --warn-bg:#eceae6; --warn-ink:#3a3a38;
   --dot:#cfccc6;          /* chấm nền */
   --dot-gap:22px;
-  /* Đỏ ĐÁNH DẤU riêng tư — ngoại lệ duy nhất của tông đơn sắc, chỉ hiện ở bản full
-     (anh yêu cầu 7/10/2026) để nhìn ra ngay phần nào KHÔNG có ở bản shared. */
-  --priv:#b5413a; --priv-bg:rgba(181,65,58,.07);
   /* "Source Serif 4" tự lưu tại chỗ, CÓ ĐỦ tiếng Việt (kể cả ơ ư ờ ớ ở ỡ ợ).
      ĐỪNG đặt "Iowan Old Style" hay Charter lên đầu: hai font hệ thống macOS đó
      THIẾU glyph chữ có dấu móc, trình duyệt phải mượn từng chữ từ font khác nên
@@ -51,7 +48,6 @@
   :root {
     --bg:#0f0f0e; --panel:#171716; --ink:#eeedea; --ink-2:#aeaca7; --ink-3:#7b7975;
     --rule:#2a2a28; --rule-2:#3d3c39; --accent:#eeedea; --accent-soft:#232322;
-    --priv:#e07a6f; --priv-bg:rgba(224,122,111,.10);
     --bar:#b8b6b1; --warn-bg:#1e1e1c; --warn-ink:#c9c7c2;
     --dot:#2e2e2b;
   }
@@ -432,14 +428,3 @@ footer code { font:400 .8rem var(--mono); }
   [data-lang="vi"] .l[lang="en"] { display:none; }
 }
 
-/* Bản full: tô đỏ phần KHÔNG có trong bản shared — mục `vis: private` và link tới file
-   trên máy (`file`, bị gỡ ở mọi tier khác). Chỉ là cách trình bày cho anh đọc nhanh. */
-body[data-tier="full"] [data-vis="private"] {
-  background:var(--priv-bg); box-shadow:inset 3px 0 0 var(--priv);
-  border-radius:3px; padding-left:.7rem; margin-left:-.7rem;
-}
-body[data-tier="full"] [data-vis="private"] b,
-body[data-tier="full"] [data-vis="private"] b a { color:var(--priv); }
-body[data-tier="full"] a.filelink { color:var(--priv); text-decoration-color:var(--priv); }
-.vb-priv { font:500 11px/1.4 var(--sans); color:var(--priv); padding-left:.6rem;
-  border-left:3px solid var(--priv); }
