@@ -152,19 +152,6 @@ Trường Đại học Bách khoa Hà Nội · Việt Nam
 | Công nghệ CNC | — | Đại học · Cao đẳng | 2010–2012 |
 | Đồ gá | — | Đại học · Cao đẳng | 2010–2012 |
 
-### Hướng dẫn người học
-| Loại | Khoá | Hướng dẫn | Phản biện |
-|---|---|---:|---:|
-| Đồ án tốt nghiệp | 2026 (K17) | — | — |
-| Thực tập tốt nghiệp | K17 (2026) | 5 | — |
-| Đồ án tốt nghiệp | 2024–2025 | — | — |
-| Đồ án/Khóa luận tốt nghiệp | 2023–2024 | — | 2 |
-| Học viên cao học | 2024 | 2 | — |
-| Thực tập tốt nghiệp | K16 | — | — |
-| Thực tập doanh nghiệp | K15 | — | — |
-
-Ô “—” là số chưa bóc được từ hồ sơ gốc, chưa phải là không có.
-
 ## Chuyên môn và phục vụ cộng đồng
 ### Phản biện cho
 IEEE Transactions on Robotics (Q1), IEEE Robotics and Automation Letters (Q1), Advanced Robotics (Q1), Robotics: Science and Systems (A*), IEEE RoboSoft, IEEE/SICE SII
@@ -185,4 +172,4 @@ Robot mềm, Công nghệ kỹ thuật cơ khí, Công nghệ chế tạo máy, 
 Tiếng Việt — Bản ngữ, Tiếng Anh — Tốt — nghe, nói, đọc, viết
 
 ---
-*Sinh tự động từ `_web/data/*.yml` ngày 2026-09-30. Đừng sửa thẳng vào file này — sửa YAML rồi dựng lại.*
+*Sinh tự động từ `_web/data/*.yml` ngày 2026-10-07. Đừng sửa thẳng vào file này — sửa YAML rồi dựng lại.*
